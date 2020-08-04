@@ -1,0 +1,28 @@
+name: Endorsements Workflow
+
+on:
+  push:
+    branches:
+      - master
+  issues:
+    types: [opened, edited, deleted]
+  issue_comment:
+    types: [created, edited, deleted]
+  workflow_dispatch:
+    # https://docs.github.com/en/rest/reference/actions#create-a-workflow-dispatch-event
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: franzdiebold/github-env-vars-action@v1.0.0
+      # https://github.com/marketplace/actions/github-environment-variables-action
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+    - run: npm ci
+    - run: npm run endorse --if-present
+      env:
+        ENV_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
