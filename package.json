@@ -1,0 +1,29 @@
+{
+  "name": "ma-si",
+  "version": "1.0.0",
+  "description": "<!--<h3 align=\"center\"> ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png) </h3> -->",
+  "main": "index.js",
+  "scripts": {
+    "endorse": "node endorse.js",
+    "ts-endorse": "ts-node endorse.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-si/ma-si.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma-si/ma-si/issues"
+  },
+  "homepage": "https://github.com/ma-si/ma-si#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.0",
+    "readme-box": "^0.1.2"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  }
+}
