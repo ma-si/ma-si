@@ -164,7 +164,7 @@ _Medical Staff_
 
 [![Ansible](https://img.shields.io/badge/Ansible-2/5_(1)-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/2)
 
-[![PHP](https://img.shields.io/badge/PHP-4/5_(1)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
+[![PHP](https://img.shields.io/badge/PHP-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars1.githubusercontent.com/u/70507664?v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
   
   [Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
   <!--END_SECTION:ENDORSEMENTS-->
