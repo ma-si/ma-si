@@ -54,9 +54,9 @@ _Medical Staff_
   I would like to add you to my professional network on the GITHUB.
   To endorse my skills click below & pick your reaction under the skill `Endorse: ...` issue or [Create new one!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE).
   
-  [![Calendar Apps Script](https://img.shields.io/badge/Google_Calendar_Apps_Script-3/5_(1)-4285F4?style=for-the-badge&logo=google-calendar)](https://github.com/ma-si/ma-si/issues/57) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/57)
+  [![Calendar Apps Script](https://img.shields.io/badge/Google_Calendar_Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google-calendar)](https://github.com/ma-si/ma-si/issues/57) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/57)
 
-[![Apps Script](https://img.shields.io/badge/Apps_Script-3/5_(1)-4285F4?style=for-the-badge&logo=google)](https://github.com/ma-si/ma-si/issues/56) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/56)
+[![Apps Script](https://img.shields.io/badge/Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google)](https://github.com/ma-si/ma-si/issues/56) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/56)
 
 [![Composer](https://img.shields.io/badge/Composer-4/5_(0)-885630?style=for-the-badge&logo=composer)](https://github.com/ma-si/ma-si/issues/55)  [Endorse me!](https://github.com/ma-si/ma-si/issues/55)
 
@@ -88,7 +88,7 @@ _Medical Staff_
 
 [![Stripe](https://img.shields.io/badge/Stripe-4/5_(1)-008CDD?style=for-the-badge&logo=stripe)](https://github.com/ma-si/ma-si/issues/41) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/41)
 
-[![PayPal](https://img.shields.io/badge/PayPal-4/5_(1)-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/40)
+[![PayPal](https://img.shields.io/badge/PayPal-4/5_(2)-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/40)
 
 [![Google Maps API](https://img.shields.io/badge/gMaps_API-3/5_(0)-0052CC?style=for-the-badge&logo=google-maps)](https://github.com/ma-si/ma-si/issues/39)  [Endorse me!](https://github.com/ma-si/ma-si/issues/39)
 
@@ -146,7 +146,7 @@ _Medical Staff_
 
 [![Git](https://img.shields.io/badge/Git-4/5_(1)-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/12)
 
-[![Docker](https://img.shields.io/badge/Docker-4/5_(1)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
+[![Docker](https://img.shields.io/badge/Docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
 
 [![Google Cloud Platform](https://img.shields.io/badge/GCP-1/5_(1)-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/10)
 
@@ -164,7 +164,7 @@ _Medical Staff_
 
 [![Ansible](https://img.shields.io/badge/Ansible-2/5_(1)-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/2)
 
-[![PHP](https://img.shields.io/badge/PHP-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars1.githubusercontent.com/u/70507664?v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
+[![PHP](https://img.shields.io/badge/PHP-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
   
   [Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
   <!--END_SECTION:ENDORSEMENTS-->
