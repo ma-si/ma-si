@@ -49,136 +49,125 @@ _Medical Staff_
 
 
 <!--START_SECTION:ENDORSEMENTS-->
-## ✨ SKILLS & ENDORSEMENTS
+  ## ✨ SKILLS & ENDORSEMENTS
   
-I would like to add you to my professional network on the GITHUB.
+  I would like to add you to my professional network on the GITHUB.
+  To endorse my skills click below & pick your reaction under the skill `Endorse: ...` issue or [Create new one!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE).
+  
+  [![Calendar Apps Script](https://img.shields.io/badge/Google_Calendar_Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google-calendar)](https://github.com/ma-si/ma-si/issues/57) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/57)
 
-To endorse my skills click below & pick your reaction under the `Endorse: SKILL` issue.
+[![Apps Script](https://img.shields.io/badge/Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google)](https://github.com/ma-si/ma-si/issues/56) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/56)
 
-To endorse other my skills [create new issue using the template](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
-and then like and subscribe and smash the bell.
+[![Composer](https://img.shields.io/badge/Composer-4/5_(0)-885630?style=for-the-badge&logo=composer)](https://github.com/ma-si/ma-si/issues/55)  [Endorse me!](https://github.com/ma-si/ma-si/issues/55)
 
-#### Technologies
+[![npm](https://img.shields.io/badge/Npm-3/5_(0)-CB3837?style=for-the-badge&logo=npm)](https://github.com/ma-si/ma-si/issues/54)  [Endorse me!](https://github.com/ma-si/ma-si/issues/54)
 
-[![Amazon AWS](https://img.shields.io/badge/AWS-2/5-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/ma-si/ma-si/issues/9) [Endorse me!](https://github.com/ma-si/ma-si/issues/9)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2/5_(0)-0095D5?style=for-the-badge&logo=kotlin)](https://github.com/ma-si/ma-si/issues/53)  [Endorse me!](https://github.com/ma-si/ma-si/issues/53)
 
-[![Google Cloud Platform](https://img.shields.io/badge/GCP-1/5-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) [Endorse me!](https://github.com/ma-si/ma-si/issues/10)
+[![Slack](https://img.shields.io/badge/Slack-3/5_(0)-4A154B?style=for-the-badge&logo=slack)](https://github.com/ma-si/ma-si/issues/52)  [Endorse me!](https://github.com/ma-si/ma-si/issues/52)
 
-[![Docker](https://img.shields.io/badge/Docker-4/5-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
+[![Notion](https://img.shields.io/badge/Notion-4/5_(0)-000000?style=for-the-badge&logo=notion)](https://github.com/ma-si/ma-si/issues/51)  [Endorse me!](https://github.com/ma-si/ma-si/issues/51)
 
-[![Ansible](https://img.shields.io/badge/Ansible-2/5-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) [Endorse me!](https://github.com/ma-si/ma-si/issues/2)
+[![Postman](https://img.shields.io/badge/Postman-3/5_(1)-FF6C37?style=for-the-badge&logo=postman)](https://github.com/ma-si/ma-si/issues/50) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/50)
 
-[![Git](https://img.shields.io/badge/Git-4/5-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) [Endorse me!](https://github.com/ma-si/ma-si/issues/12)
+[![Confluence](https://img.shields.io/badge/Confluence-2/5_(0)-0052CC?style=for-the-badge&logo=confluence)](https://github.com/ma-si/ma-si/issues/49)  [Endorse me!](https://github.com/ma-si/ma-si/issues/49)
 
-[![Github Actions](https://img.shields.io/badge/Github_Actions-4/5-2088FF?style=for-the-badge&logo=github-actions)](https://github.com/ma-si/ma-si/issues/13) [Endorse me!](https://github.com/ma-si/ma-si/issues/13)
+[![Trello](https://img.shields.io/badge/Trello-2/5_(0)-0079BF?style=for-the-badge&logo=trello)](https://github.com/ma-si/ma-si/issues/48)  [Endorse me!](https://github.com/ma-si/ma-si/issues/48)
 
-[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-4/5-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/14) [Endorse me!](https://github.com/ma-si/ma-si/issues/14)
+[![Asana](https://img.shields.io/badge/Asana-2/5_(0)-273347?style=for-the-badge&logo=asana)](https://github.com/ma-si/ma-si/issues/47)  [Endorse me!](https://github.com/ma-si/ma-si/issues/47)
 
-[![Jenkins](https://img.shields.io/badge/Jenkins-2/5-D24939?style=for-the-badge&logo=jenkins)](https://github.com/ma-si/ma-si/issues/15) [Endorse me!](https://github.com/ma-si/ma-si/issues/15)
+[![Jira](https://img.shields.io/badge/Jira-3/5_(0)-0052CC?style=for-the-badge&logo=jira)](https://github.com/ma-si/ma-si/issues/46)  [Endorse me!](https://github.com/ma-si/ma-si/issues/46)
 
-[![Travis CI](https://img.shields.io/badge/Travis_CI-3/5-3EAAAF?style=for-the-badge&logo=travis-ci)](https://github.com/ma-si/ma-si/issues/16) [Endorse me!](https://github.com/ma-si/ma-si/issues/16)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-3/5_(0)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/45)  [Endorse me!](https://github.com/ma-si/ma-si/issues/45)
 
-[![Grafana](https://img.shields.io/badge/Grafana-1/5-F46800?style=for-the-badge&logo=grafana)](https://github.com/ma-si/ma-si/issues/17) [Endorse me!](https://github.com/ma-si/ma-si/issues/17)
+[![GitLab](https://img.shields.io/badge/GitLab-3/5_(0)-FCA121?style=for-the-badge&logo=gitlab)](https://github.com/ma-si/ma-si/issues/44)  [Endorse me!](https://github.com/ma-si/ma-si/issues/44)
 
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3/5-FF6600?style=for-the-badge&logo=rabbitmq)](https://github.com/ma-si/ma-si/issues/18) [Endorse me!](https://github.com/ma-si/ma-si/issues/18)
+[![GitHub](https://img.shields.io/badge/GitHub-4/5_(1)-000000?style=for-the-badge&logo=github)](https://github.com/ma-si/ma-si/issues/43) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/43)
 
-[![Redis](https://img.shields.io/badge/Redis-4/5-DC382D?style=for-the-badge&logo=redis)](https://github.com/ma-si/ma-si/issues/19) [Endorse me!](https://github.com/ma-si/ma-si/issues/19)
+[![Crowdin](https://img.shields.io/badge/Crowdin-3/5_(0)-2E3340?style=for-the-badge&logo=crowdin)](https://github.com/ma-si/ma-si/issues/42)  [Endorse me!](https://github.com/ma-si/ma-si/issues/42)
 
-[![Nginx](https://img.shields.io/badge/Nginx-3/5-269539?style=for-the-badge&logo=nginx)](https://github.com/ma-si/ma-si/issues/20) [Endorse me!](https://github.com/ma-si/ma-si/issues/20)
+[![Stripe](https://img.shields.io/badge/Stripe-4/5_(2)-008CDD?style=for-the-badge&logo=stripe)](https://github.com/ma-si/ma-si/issues/41) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/41)
 
-[![Apache](https://img.shields.io/badge/Apache-3/5-D22128?style=for-the-badge&logo=apache)](https://github.com/ma-si/ma-si/issues/21) [Endorse me!](https://github.com/ma-si/ma-si/issues/21)
+[![PayPal](https://img.shields.io/badge/PayPal-4/5_(2)-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/40)
 
-[![Lighthouse](https://img.shields.io/badge/Lighthouse-2/5-F44B21?style=for-the-badge&logo=lighthouse)](https://github.com/ma-si/ma-si/issues/22) [Endorse me!](https://github.com/ma-si/ma-si/issues/22)
+[![Google Maps API](https://img.shields.io/badge/gMaps_API-3/5_(0)-0052CC?style=for-the-badge&logo=google-maps)](https://github.com/ma-si/ma-si/issues/39)  [Endorse me!](https://github.com/ma-si/ma-si/issues/39)
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4/5-336791?style=for-the-badge&logo=postgresql)](https://github.com/ma-si/ma-si/issues/7) [Endorse me!](https://github.com/ma-si/ma-si/issues/7)
+[![Markdown](https://img.shields.io/badge/Markdown-5/5_(0)-000000?style=for-the-badge&logo=markdown)](https://github.com/ma-si/ma-si/issues/38)  [Endorse me!](https://github.com/ma-si/ma-si/issues/38)
 
-[![MySQL](https://img.shields.io/badge/MySQL-3/5-4479A1?style=for-the-badge&logo=mysql)](https://github.com/ma-si/ma-si/issues/23) [Endorse me!](https://github.com/ma-si/ma-si/issues/23)
+[![Swagger](https://img.shields.io/badge/Swagger-3/5_(0)-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/ma-si/ma-si/issues/37)  [Endorse me!](https://github.com/ma-si/ma-si/issues/37)
 
-[![MariaDB](https://img.shields.io/badge/MariaDB-2/5-003545?style=for-the-badge&logo=mariadb)](https://github.com/ma-si/ma-si/issues/24) [Endorse me!](https://github.com/ma-si/ma-si/issues/24)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-3/5_(0)-6BA539?style=for-the-badge&logo=openapi-initiative)](https://github.com/ma-si/ma-si/issues/36)  [Endorse me!](https://github.com/ma-si/ma-si/issues/36)
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-1/5-13aa52?style=for-the-badge&logo=mongodb)](https://github.com/ma-si/ma-si/issues/25) [Endorse me!](https://github.com/ma-si/ma-si/issues/25)
+[![JSON Web Tokens](https://img.shields.io/badge/JWT-4/5_(0)-000000?style=for-the-badge&logo=JSON-Web-Tokens)](https://github.com/ma-si/ma-si/issues/35)  [Endorse me!](https://github.com/ma-si/ma-si/issues/35)
 
-[![SQLite](https://img.shields.io/badge/SQLite-2/5-003B57?style=for-the-badge&logo=sqlite)](https://github.com/ma-si/ma-si/issues/26) [Endorse me!](https://github.com/ma-si/ma-si/issues/26)
+[![GraphQL](https://img.shields.io/badge/GraphQL-3/5_(0)-E10098?style=for-the-badge&logo=graphql)](https://github.com/ma-si/ma-si/issues/34)  [Endorse me!](https://github.com/ma-si/ma-si/issues/34)
 
-[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-3/5-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/ma-si/ma-si/issues/27) [Endorse me!](https://github.com/ma-si/ma-si/issues/27)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3/5_(0)-007ACC?style=for-the-badge&logo=typescript)](https://github.com/ma-si/ma-si/issues/33)  [Endorse me!](https://github.com/ma-si/ma-si/issues/33)
 
-[![Kibana](https://img.shields.io/badge/Kibana-1/5-005571?style=for-the-badge&logo=kibana)](https://github.com/ma-si/ma-si/issues/28) [Endorse me!](https://github.com/ma-si/ma-si/issues/28)
+[![Redux](https://img.shields.io/badge/Redux-2/5_(0)-764ABC?style=for-the-badge&logo=redux)](https://github.com/ma-si/ma-si/issues/32)  [Endorse me!](https://github.com/ma-si/ma-si/issues/32)
 
-[![Elastic Stack](https://img.shields.io/badge/ELK-1/5-005571?style=for-the-badge&logo=elastic-stack)](https://github.com/ma-si/ma-si/issues/29) [Endorse me!](https://github.com/ma-si/ma-si/issues/29)
+[![Mezzio](https://img.shields.io/badge/Mezzio-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/31) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/31)
 
-[Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
+[![Node](https://img.shields.io/badge/Node-3/5_(2)-43853d?style=for-the-badge&logo=node.js)](https://github.com/ma-si/ma-si/issues/30) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/30)
 
-#### Skills
+[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-1/5_(0)-005571?style=for-the-badge&logo=elastic-stack)](https://github.com/ma-si/ma-si/issues/29)  [Endorse me!](https://github.com/ma-si/ma-si/issues/29)
 
-[![PHP](https://img.shields.io/badge/PHP-4/5-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
+[![Kibana](https://img.shields.io/badge/Kibana-1/5_(0)-005571?style=for-the-badge&logo=kibana)](https://github.com/ma-si/ma-si/issues/28)  [Endorse me!](https://github.com/ma-si/ma-si/issues/28)
 
-[![Node](https://img.shields.io/badge/Node-3/5-43853d?style=for-the-badge&logo=node.js)](https://github.com/ma-si/ma-si/issues/30) [Endorse me!](https://github.com/ma-si/ma-si/issues/30)
+[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-3/5_(2)-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/ma-si/ma-si/issues/27) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/27)
 
-[![Laminas](https://img.shields.io/badge/Laminas-5/5-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/6) [Endorse me!](https://github.com/ma-si/ma-si/issues/6)
+[![SQLite](https://img.shields.io/badge/SQLite-2/5_(0)-003B57?style=for-the-badge&logo=sqlite)](https://github.com/ma-si/ma-si/issues/26)  [Endorse me!](https://github.com/ma-si/ma-si/issues/26)
 
-[![Mezzio](https://img.shields.io/badge/Mezzio-5/5-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/31) [Endorse me!](https://github.com/ma-si/ma-si/issues/31)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1/5_(0)-13aa52?style=for-the-badge&logo=mongodb)](https://github.com/ma-si/ma-si/issues/25)  [Endorse me!](https://github.com/ma-si/ma-si/issues/25)
 
-[![Symfony](https://img.shields.io/badge/Symfony-4/5-000000?style=for-the-badge&logo=symfony)](https://github.com/ma-si/ma-si/issues/5) [Endorse me!](https://github.com/ma-si/ma-si/issues/5)
+[![MariaDB](https://img.shields.io/badge/MariaDB-2/5_(0)-003545?style=for-the-badge&logo=mariadb)](https://github.com/ma-si/ma-si/issues/24)  [Endorse me!](https://github.com/ma-si/ma-si/issues/24)
 
-[![Angular](https://img.shields.io/badge/Angular-3/5-DD0031?style=for-the-badge&logo=angular)](https://github.com/ma-si/ma-si/issues/3) [Endorse me!](https://github.com/ma-si/ma-si/issues/3)
+[![MySQL](https://img.shields.io/badge/MySQL-3/5_(1)-4479A1?style=for-the-badge&logo=mysql)](https://github.com/ma-si/ma-si/issues/23) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/23)
 
-[![React](https://img.shields.io/badge/React-2/5-45b8d8?style=for-the-badge&logo=react)](https://github.com/ma-si/ma-si/issues/4) [Endorse me!](https://github.com/ma-si/ma-si/issues/4)
+[![Lighthouse](https://img.shields.io/badge/Lighthouse-2/5_(0)-F44B21?style=for-the-badge&logo=lighthouse)](https://github.com/ma-si/ma-si/issues/22)  [Endorse me!](https://github.com/ma-si/ma-si/issues/22)
 
-[![npm](https://img.shields.io/badge/npm-3/5-CB3837?style=for-the-badge&logo=npm)](https://github.com/ma-si/ma-si/issues/54) [Endorse me!](https://github.com/ma-si/ma-si/issues/54)
+[![Apache](https://img.shields.io/badge/Apache-3/5_(1)-D22128?style=for-the-badge&logo=apache)](https://github.com/ma-si/ma-si/issues/21) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/21)
 
-[![composer](https://img.shields.io/badge/composer-4/5-885630?style=for-the-badge&logo=composer)](https://github.com/ma-si/ma-si/issues/55) [Endorse me!](https://github.com/ma-si/ma-si/issues/55)
+[![Nginx](https://img.shields.io/badge/Nginx-3/5_(1)-269539?style=for-the-badge&logo=nginx)](https://github.com/ma-si/ma-si/issues/20) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/20)
 
-[![Redux](https://img.shields.io/badge/Redux-2/5-764ABC?style=for-the-badge&logo=redux)](https://github.com/ma-si/ma-si/issues/32) [Endorse me!](https://github.com/ma-si/ma-si/issues/32)
+[![Redis](https://img.shields.io/badge/Redis-4/5_(1)-DC382D?style=for-the-badge&logo=redis)](https://github.com/ma-si/ma-si/issues/19) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/19)
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3/5-007ACC?style=for-the-badge&logo=typescript)](https://github.com/ma-si/ma-si/issues/33) [Endorse me!](https://github.com/ma-si/ma-si/issues/33)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3/5_(2)-FF6600?style=for-the-badge&logo=rabbitmq)](https://github.com/ma-si/ma-si/issues/18) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/18)
 
-[![GraphQL](https://img.shields.io/badge/GraphQL-3/5-E10098?style=for-the-badge&logo=graphql)](https://github.com/ma-si/ma-si/issues/34) [Endorse me!](https://github.com/ma-si/ma-si/issues/34)
+[![Grafana](https://img.shields.io/badge/Grafana-1/5_(0)-F46800?style=for-the-badge&logo=grafana)](https://github.com/ma-si/ma-si/issues/17)  [Endorse me!](https://github.com/ma-si/ma-si/issues/17)
 
-[![JSON Web Tokens](https://img.shields.io/badge/JWT-4/5-000000?style=for-the-badge&logo=JSON-Web-Tokens)](https://github.com/ma-si/ma-si/issues/35) [Endorse me!](https://github.com/ma-si/ma-si/issues/35)
+[![Travis CI](https://img.shields.io/badge/Travis_CI-3/5_(1)-3EAAAF?style=for-the-badge&logo=travis-ci)](https://github.com/ma-si/ma-si/issues/16) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/16)
 
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-3/5-6BA539?style=for-the-badge&logo=openapi-initiative)](https://github.com/ma-si/ma-si/issues/36) [Endorse me!](https://github.com/ma-si/ma-si/issues/36)
+[![Jenkins](https://img.shields.io/badge/Jenkins-2/5_(1)-D24939?style=for-the-badge&logo=jenkins)](https://github.com/ma-si/ma-si/issues/15) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/15)
 
-[![Swagger](https://img.shields.io/badge/Swagger-3/5-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/ma-si/ma-si/issues/37) [Endorse me!](https://github.com/ma-si/ma-si/issues/37)
+[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-4/5_(1)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/14) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/14)
 
-[![Markdown](https://img.shields.io/badge/Markdown-5/5-000000?style=for-the-badge&logo=markdown)](https://github.com/ma-si/ma-si/issues/38) [Endorse me!](https://github.com/ma-si/ma-si/issues/38)
+[![Github Actions](https://img.shields.io/badge/Github_Actions-4/5_(1)-2088FF?style=for-the-badge&logo=github-actions)](https://github.com/ma-si/ma-si/issues/13) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/13)
 
-[![Google Maps API](https://img.shields.io/badge/Maps_API-3/5-0052CC?style=for-the-badge&logo=google-maps)](https://github.com/ma-si/ma-si/issues/39) [Endorse me!](https://github.com/ma-si/ma-si/issues/39)
+[![Git](https://img.shields.io/badge/Git-4/5_(1)-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/12)
 
-[![PayPal](https://img.shields.io/badge/PayPal-4/5-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) [Endorse me!](https://github.com/ma-si/ma-si/issues/40)
+[![Docker](https://img.shields.io/badge/Docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
 
-[![Stripe](https://img.shields.io/badge/Stripe-4/5-008CDD?style=for-the-badge&logo=stripe)](https://github.com/ma-si/ma-si/issues/41) [Endorse me!](https://github.com/ma-si/ma-si/issues/41)
+[![Google Cloud Platform](https://img.shields.io/badge/GCP-1/5_(1)-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/10)
 
-[![Crowdin](https://img.shields.io/badge/Crowdin-3/5-2E3340?style=for-the-badge&logo=crowdin)](https://github.com/ma-si/ma-si/issues/42) [Endorse me!](https://github.com/ma-si/ma-si/issues/42)
+[![Amazon Web Services](https://img.shields.io/badge/AWS-2/5_(1)-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/ma-si/ma-si/issues/9) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/9)
 
-[Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4/5_(2)-336791?style=for-the-badge&logo=postgresql)](https://github.com/ma-si/ma-si/issues/7) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/7)
 
-#### Software
+[![Laminas](https://img.shields.io/badge/Laminas-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/6) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/6)
 
-[![GitHub](https://img.shields.io/badge/GitHub-4/5-000000?style=for-the-badge&logo=github)](https://github.com/ma-si/ma-si/issues/43) [Endorse me!](https://github.com/ma-si/ma-si/issues/43)
+[![Symfony](https://img.shields.io/badge/Symfony-4/5_(2)-000000?style=for-the-badge&logo=symfony)](https://github.com/ma-si/ma-si/issues/5) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/5)
 
-[![GitLab](https://img.shields.io/badge/GitLab-3/5-FCA121?style=for-the-badge&logo=gitlab)](https://github.com/ma-si/ma-si/issues/44) [Endorse me!](https://github.com/ma-si/ma-si/issues/44)
+[![React](https://img.shields.io/badge/React-2/5_(1)-45b8d8?style=for-the-badge&logo=react)](https://github.com/ma-si/ma-si/issues/4) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/4)
 
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-3/5-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/45) [Endorse me!](https://github.com/ma-si/ma-si/issues/45)
+[![Ansible](https://img.shields.io/badge/Angular-3/5_(2)-DD0031?style=for-the-badge&logo=angular)](https://github.com/ma-si/ma-si/issues/3) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/3)
 
-[![Jira](https://img.shields.io/badge/JIRA-3/5-0052CC?style=for-the-badge&logo=jira)](https://github.com/ma-si/ma-si/issues/46) [Endorse me!](https://github.com/ma-si/ma-si/issues/46)
+[![Ansible](https://img.shields.io/badge/Ansible-2/5_(2)-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/2)
 
-[![Asana](https://img.shields.io/badge/Asana-2/5-273347?style=for-the-badge&logo=asana)](https://github.com/ma-si/ma-si/issues/47) [Endorse me!](https://github.com/ma-si/ma-si/issues/47)
-
-[![Trello](https://img.shields.io/badge/Trello-2/5-0079BF?style=for-the-badge&logo=trello)](https://github.com/ma-si/ma-si/issues/48) [Endorse me!](https://github.com/ma-si/ma-si/issues/48)
-
-[![Confluence](https://img.shields.io/badge/Confluence-2/5-0052CC?style=for-the-badge&logo=confluence)](https://github.com/ma-si/ma-si/issues/49) [Endorse me!](https://github.com/ma-si/ma-si/issues/49)
-
-[![Postman](https://img.shields.io/badge/Postman-3/5-FF6C37?style=for-the-badge&logo=postman)](https://github.com/ma-si/ma-si/issues/50) [Endorse me!](https://github.com/ma-si/ma-si/issues/50)
-
-[![Notion](https://img.shields.io/badge/Notion-4/5-000000?style=for-the-badge&logo=notion)](https://github.com/ma-si/ma-si/issues/51) [Endorse me!](https://github.com/ma-si/ma-si/issues/51)
-
-[![Slack](https://img.shields.io/badge/Slack-3/5-4A154B?style=for-the-badge&logo=slack)](https://github.com/ma-si/ma-si/issues/52) [Endorse me!](https://github.com/ma-si/ma-si/issues/52)
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-2/5-0095D5?style=for-the-badge&logo=kotlin)](https://github.com/ma-si/ma-si/issues/53) [Endorse me!](https://github.com/ma-si/ma-si/issues/53)
-
-[Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
-
-<!--END_SECTION:ENDORSEMENTS-->
+[![PHP](https://img.shields.io/badge/PHP-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
+  
+  [Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
+  <!--END_SECTION:ENDORSEMENTS-->
 
 
 
