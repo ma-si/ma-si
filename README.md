@@ -146,7 +146,7 @@ _Medical Staff_
 
 [![Git](https://img.shields.io/badge/Git-4/5_(1)-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/12)
 
-[![Docker](https://img.shields.io/badge/Docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
+[![Docker](https://img.shields.io/badge/Docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28)![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
 
 [![Google Cloud Platform](https://img.shields.io/badge/GCP-1/5_(1)-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/10)
 
