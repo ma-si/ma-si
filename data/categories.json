@@ -1,0 +1,110 @@
+{
+    "General": {
+        "label": "General",
+        "tags": [
+            "Software_Architecture",
+            "Design_Thinking",
+            "Business_Process_Optimisation",
+            "Extreme_Automation",
+            "IaC",
+            "Mentorship",
+            "NVC"
+        ]
+    },
+    "Programming Languages": {
+        "label": "Programming/Markup Languages",
+        "tags": [
+            "PHP",
+            "Bash",
+            "Node",
+            "TypeScript",
+            "Solidity",
+            "Haskell",
+            "Rust",
+            "SQL",
+            "JavaScript"
+        ]
+    },
+    "Frameworks": {
+        "label": "Frameworks",
+        "tags": [
+            "Symfony",
+            "Doctrine",
+            "Express",
+            "Prisma",
+            "Mezzio",
+            "Angular",
+            "Laminas",
+            "PHPUnit",
+            "React"
+        ]
+    },
+    "Tools": {
+        "label": "Tools",
+        "tags": [
+            "Git",
+            "Docker",
+            "Ansible",
+            "AWS",
+            "Github_Actions",
+            "Bitbucket_Pipelines",
+            "Jenkins",
+            "travis_ci",
+            "npm",
+            "composer",
+            "RabbitMQ",
+            "Redis",
+            "Nginx",
+            "Apache",
+            "ElasticSearch",
+            "PostgreSQL",
+            "MySQL",
+            "MariaDB",
+            "MongoDB",
+            "Grafana",
+            "Lighthouse",
+            "Kibana",
+            "GitHub",
+            "GitLab",
+            "Bitbucket",
+            "Jira",
+            "Asana",
+            "Trello",
+            "Confluence",
+            "Postman",
+            "Notion",
+            "Slack",
+            "Discord",
+            "redux",
+            "GraphQL",
+            "jwt",
+            "OpenAPI",
+            "Swagger",
+            "Markdown",
+            "gMaps_API",
+            "PayPal",
+            "Stripe",
+            "Crowdin",
+            "Yubico",
+            "Home_Assistant",
+            "OBS"
+        ]
+    },
+    "Hardware": {
+        "label": "Hardware",
+        "tags": [
+            "ESP32",
+            "Coral"
+        ]
+    },
+    "Other": {
+        "label": "Other",
+        "tags": [
+        ]
+    },
+    "Other Endorsed": {
+        "label": "Other Endorsed",
+        "tags": [
+        ]
+    }
+}

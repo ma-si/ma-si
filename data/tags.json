@@ -1,395 +1,979 @@
 {
-    "PHP": {
+    "php": {
         "issue": 1,
         "score": "4/5",
         "label": "PHP",
+        "endorsementCount": 0,
         "color": "777BB4",
-        "logo": "php"
+        "logo": "php",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/1",
+        "promote": true
     },
-    "Ansible": {
+    "ansible": {
         "issue": 2,
-        "score": "2/5",
-        "label": "Ansible",
-        "color": "EE0000",
-        "logo": "ansible"
-    },
-    "Angular": {
-        "issue": 3,
         "score": "3/5",
         "label": "Ansible",
-        "color": "DD0031",
-        "logo": "angular"
+        "endorsementCount": 0,
+        "color": "EE0000",
+        "logo": "ansible",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/2",
+        "promote": true
     },
-    "React": {
+    "angular": {
+        "issue": 3,
+        "score": "3/5",
+        "label": "Angular",
+        "endorsementCount": 0,
+        "color": "DD0031",
+        "logo": "angular",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/3",
+        "promote": true
+    },
+    "react": {
         "issue": 4,
         "score": "2/5",
         "label": "React",
+        "endorsementCount": 0,
         "color": "45b8d8",
-        "logo": "react"
+        "logo": "react",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/4",
+        "promote": false
     },
-    "Symfony": {
+    "symfony": {
         "issue": 5,
         "score": "4/5",
         "label": "Symfony",
+        "endorsementCount": 0,
         "color": "000000",
-        "logo": "symfony"
+        "logo": "symfony",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/5",
+        "promote": true
     },
-    "Laminas": {
+    "laminas": {
         "issue": 6,
         "score": "5/5",
         "label": "Laminas",
+        "endorsementCount": 0,
         "color": "68B604",
-        "logo": "zend-framework"
+        "logo": "zend-framework",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/6",
+        "promote": false
     },
-    "PostgreSQL": {
+    "postgresql": {
         "issue": 7,
         "score": "4/5",
         "label": "PostgreSQL",
+        "endorsementCount": 0,
         "color": "336791",
-        "logo": "postgresql"
+        "logo": "postgresql",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/7",
+        "promote": true
     },
-    "AWS": {
+    "aws": {
         "issue": 9,
         "score": "2/5",
         "label": "Amazon Web Services",
+        "endorsementCount": 0,
         "color": "232F3E",
-        "logo": "amazon-aws"
+        "logo": "amazonwebservices",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/9",
+        "promote": true
     },
-    "GCP": {
+    "gcp": {
         "issue": 10,
         "score": "1/5",
         "label": "Google Cloud Platform",
+        "endorsementCount": 0,
         "color": "4285F4",
-        "logo": "google-cloud"
+        "logo": "google-cloud",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/10",
+        "promote": true
     },
-    "Docker": {
+    "docker": {
         "issue": 11,
         "score": "4/5",
         "label": "Docker",
+        "endorsementCount": 0,
         "color": "46a2f1",
-        "logo": "docker"
+        "logo": "docker",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/11",
+        "promote": true
     },
-    "Git": {
+    "git": {
         "issue": 12,
         "score": "4/5",
         "label": "Git",
+        "endorsementCount": 0,
         "color": "F05032",
-        "logo": "git"
+        "logo": "git",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/12",
+        "promote": false
     },
-    "Github Actions": {
+    "github_actions": {
         "issue": 13,
         "score": "4/5",
         "label": "Github Actions",
+        "endorsementCount": 0,
         "color": "2088FF",
-        "logo": "github-actions"
+        "logo": "github-actions",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/13",
+        "promote": false
     },
-    "Bitbucket Pipelines": {
+    "bitbucket_pipelines": {
         "issue": 14,
         "score": "4/5",
         "label": "Bitbucket Pipelines",
+        "endorsementCount": 0,
         "color": "0052CC",
-        "logo": "bitbucket"
+        "logo": "bitbucket",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/14",
+        "promote": false
     },
-    "Jenkins": {
+    "jenkins": {
         "issue": 15,
         "score": "2/5",
         "label": "Jenkins",
+        "endorsementCount": 0,
         "color": "D24939",
-        "logo": "jenkins"
+        "logo": "jenkins",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/15",
+        "promote": false
     },
-    "Travis CI": {
+    "travis_ci": {
         "issue": 16,
         "score": "3/5",
         "label": "Travis CI",
+        "endorsementCount": 0,
         "color": "3EAAAF",
-        "logo": "travis-ci"
+        "logo": "travis-ci",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/16",
+        "promote": false
     },
-    "Grafana": {
+    "grafana": {
         "issue": 17,
         "score": "1/5",
         "label": "Grafana",
+        "endorsementCount": 0,
         "color": "F46800",
-        "logo": "grafana"
+        "logo": "grafana",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/17",
+        "promote": false
     },
-    "RabbitMQ": {
+    "rabbitmq": {
         "issue": 18,
         "score": "3/5",
         "label": "RabbitMQ",
+        "endorsementCount": 0,
         "color": "FF6600",
-        "logo": "rabbitmq"
+        "logo": "rabbitmq",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/18",
+        "promote": false
     },
-    "Redis": {
+    "redis": {
         "issue": 19,
         "score": "4/5",
         "label": "Redis",
+        "endorsementCount": 0,
         "color": "DC382D",
-        "logo": "redis"
+        "logo": "redis",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/19",
+        "promote": false
     },
-    "Nginx": {
+    "nginx": {
         "issue": 20,
         "score": "3/5",
         "label": "Nginx",
+        "endorsementCount": 0,
         "color": "269539",
-        "logo": "nginx"
+        "logo": "nginx",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/20",
+        "promote": false
     },
-    "Apache": {
+    "apache": {
         "issue": 21,
         "score": "3/5",
         "label": "Apache",
+        "endorsementCount": 0,
         "color": "D22128",
-        "logo": "apache"
+        "logo": "apache",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/21",
+        "promote": false
     },
-    "Lighthouse": {
+    "lighthouse": {
         "issue": 22,
         "score": "2/5",
         "label": "Lighthouse",
+        "endorsementCount": 0,
         "color": "F44B21",
-        "logo": "lighthouse"
+        "logo": "lighthouse",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/22",
+        "promote": false
     },
-    "MySQL": {
+    "mysql": {
         "issue": 23,
         "score": "3/5",
         "label": "MySQL",
+        "endorsementCount": 0,
         "color": "4479A1",
-        "logo": "mysql"
+        "logo": "mysql",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/23",
+        "promote": true
     },
-    "MariaDB": {
+    "mariadb": {
         "issue": 24,
         "score": "2/5",
         "label": "MariaDB",
+        "endorsementCount": 0,
         "color": "003545",
-        "logo": "mariadb"
+        "logo": "mariadb",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/24",
+        "promote": false
     },
-    "MongoDB": {
+    "mongodb": {
         "issue": 25,
         "score": "1/5",
         "label": "MongoDB",
+        "endorsementCount": 0,
         "color": "13aa52",
-        "logo": "mongodb"
+        "logo": "mongodb",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+MongoDB",
+        "promote": false
     },
-    "SQLite": {
-        "issue": 26,
+    "sqlite": {
+        "issue": null,
         "score": "2/5",
         "label": "SQLite",
+        "endorsementCount": 0,
         "color": "003B57",
-        "logo": "sqlite"
+        "logo": "sqlite",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+sqlite",
+        "promote": false
     },
-    "ElasticSearch": {
+    "elasticsearch": {
         "issue": 27,
         "score": "3/5",
         "label": "ElasticSearch",
+        "endorsementCount": 0,
         "color": "005571",
-        "logo": "elasticsearch"
+        "logo": "elasticsearch",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/27",
+        "promote": false
     },
-    "Kibana": {
+    "kibana": {
         "issue": 28,
         "score": "1/5",
         "label": "Kibana",
+        "endorsementCount": 0,
         "color": "005571",
-        "logo": "kibana"
+        "logo": "kibana",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/28",
+        "promote": false
     },
-    "Elastic Stack": {
+    "elastic_stack": {
         "issue": 29,
         "score": "1/5",
         "label": "Elastic Stack",
+        "endorsementCount": 0,
         "color": "005571",
-        "logo": "elastic-stack"
+        "logo": "elastic-stack",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/29",
+        "promote": false
     },
-    "Node": {
+    "node": {
         "issue": 30,
         "score": "3/5",
         "label": "Node",
+        "endorsementCount": 0,
         "color": "43853d",
-        "logo": "node.js"
+        "logo": "node.js",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/30",
+        "promote": true
     },
-    "Mezzio": {
+    "mezzio": {
         "issue": 31,
         "score": "5/5",
         "label": "Mezzio",
+        "endorsementCount": 0,
         "color": "68B604",
-        "logo": "zend-framework"
+        "logo": "zend-framework",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/31",
+        "promote": true
     },
-    "Redux": {
+    "redux": {
         "issue": 32,
         "score": "2/5",
         "label": "Redux",
+        "endorsementCount": 0,
         "color": "764ABC",
-        "logo": "redux"
+        "logo": "redux",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/32",
+        "promote": false
     },
-    "TypeScript": {
+    "typescript": {
         "issue": 33,
         "score": "3/5",
         "label": "TypeScript",
+        "endorsementCount": 0,
         "color": "007ACC",
-        "logo": "typescript"
+        "logo": "typescript",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/33",
+        "promote": true
     },
-    "GraphQL": {
+    "graphql": {
         "issue": 34,
         "score": "3/5",
         "label": "GraphQL",
+        "endorsementCount": 0,
         "color": "E10098",
-        "logo": "graphql"
+        "logo": "graphql",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/34",
+        "promote": false
     },
-    "JWT": {
-        "issue": 35,
+    "jwt": {
+        "issue": null,
         "score": "4/5",
         "label": "JSON Web Tokens",
+        "endorsementCount": 0,
         "color": "000000",
-        "logo": "JSON-Web-Tokens"
+        "logo": "JSON-Web-Tokens",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+JWT",
+        "promote": false
     },
-    "OpenAPI": {
+    "openapi": {
         "issue": 36,
         "score": "3/5",
         "label": "OpenAPI",
+        "endorsementCount": 0,
         "color": "6BA539",
-        "logo": "openapi-initiative"
+        "logo": "openapi-initiative",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/36",
+        "promote": false
     },
-    "Swagger": {
+    "swagger": {
         "issue": 37,
         "score": "3/5",
         "label": "Swagger",
+        "endorsementCount": 0,
         "color": "85EA2D",
-        "logo": "swagger"
+        "logo": "swagger",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/37",
+        "promote": false
     },
-    "Markdown": {
-        "issue": 38,
+    "markdown": {
+        "issue": null,
         "score": "5/5",
         "label": "Markdown",
+        "endorsementCount": 0,
         "color": "000000",
-        "logo": "markdown"
+        "logo": "markdown",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Markdown",
+        "promote": false
     },
-    "gMaps API": {
+    "gmaps_api": {
         "issue": 39,
         "score": "3/5",
-        "label": "Google Maps API",
+        "label": "gMaps API",
+        "endorsementCount": 0,
         "color": "0052CC",
-        "logo": "google-maps"
+        "logo": "google-maps",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/39",
+        "promote": false
     },
-    "PayPal": {
+    "paypal": {
         "issue": 40,
         "score": "4/5",
         "label": "PayPal",
+        "endorsementCount": 0,
         "color": "00457C",
-        "logo": "paypal"
+        "logo": "paypal",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/40",
+        "promote": false
     },
-    "Stripe": {
+    "stripe": {
         "issue": 41,
         "score": "4/5",
         "label": "Stripe",
+        "endorsementCount": 0,
         "color": "008CDD",
-        "logo": "stripe"
+        "logo": "stripe",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/41",
+        "promote": false
     },
-    "Crowdin": {
+    "crowdin": {
         "issue": 42,
         "score": "3/5",
         "label": "Crowdin",
+        "endorsementCount": 0,
         "color": "2E3340",
-        "logo": "crowdin"
+        "logo": "crowdin",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/42",
+        "promote": false
     },
-    "GitHub": {
+    "github": {
         "issue": 43,
         "score": "4/5",
         "label": "GitHub",
+        "endorsementCount": 0,
         "color": "000000",
-        "logo": "github"
+        "logo": "github",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/43",
+        "promote": false
     },
-    "GitLab": {
+    "gitlab": {
         "issue": 44,
         "score": "3/5",
         "label": "GitLab",
+        "endorsementCount": 0,
         "color": "FCA121",
-        "logo": "gitlab"
+        "logo": "gitlab",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/44",
+        "promote": false
     },
-    "Bitbucket": {
+    "bitbucket": {
         "issue": 45,
         "score": "3/5",
         "label": "Bitbucket",
+        "endorsementCount": 0,
         "color": "0052CC",
-        "logo": "bitbucket"
+        "logo": "bitbucket",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/45",
+        "promote": false
     },
-    "Jira": {
+    "jira": {
         "issue": 46,
         "score": "3/5",
         "label": "Jira",
+        "endorsementCount": 0,
         "color": "0052CC",
-        "logo": "jira"
+        "logo": "jira",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/46",
+        "promote": false
     },
-    "Asana": {
+    "asana": {
         "issue": 47,
         "score": "2/5",
         "label": "Asana",
+        "endorsementCount": 0,
         "color": "273347",
-        "logo": "asana"
+        "logo": "asana",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/47",
+        "promote": false
     },
-    "Trello": {
+    "trello": {
         "issue": 48,
         "score": "2/5",
         "label": "Trello",
+        "endorsementCount": 0,
         "color": "0079BF",
-        "logo": "trello"
+        "logo": "trello",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/48",
+        "promote": false
     },
-    "Confluence": {
+    "confluence": {
         "issue": 49,
         "score": "2/5",
         "label": "Confluence",
+        "endorsementCount": 0,
         "color": "0052CC",
-        "logo": "confluence"
+        "logo": "confluence",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/49",
+        "promote": false
     },
-    "Postman": {
+    "postman": {
         "issue": 50,
         "score": "3/5",
         "label": "Postman",
+        "endorsementCount": 0,
         "color": "FF6C37",
-        "logo": "postman"
+        "logo": "postman",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/50",
+        "promote": false
     },
-    "Notion": {
+    "notion": {
         "issue": 51,
         "score": "4/5",
         "label": "Notion",
+        "endorsementCount": 0,
         "color": "000000",
-        "logo": "notion"
+        "logo": "notion",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/51",
+        "promote": false
     },
-    "Slack": {
-        "issue": 52,
+    "slack": {
+        "issue": null,
         "score": "3/5",
         "label": "Slack",
+        "endorsementCount": 0,
         "color": "4A154B",
-        "logo": "slack"
+        "logo": "slack",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Slack",
+        "promote": false
     },
-    "Kotlin": {
-        "issue": 53,
-        "score": "2/5",
+    "kotlin": {
+        "issue": null,
+        "score": "1/5",
         "label": "Kotlin",
+        "endorsementCount": 0,
         "color": "0095D5",
-        "logo": "kotlin"
+        "logo": "kotlin",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Kotlin",
+        "promote": false
     },
-    "Npm": {
-        "issue": 54,
+    "rust": {
+        "issue": null,
+        "score": "1/5",
+        "label": "Rust",
+        "endorsementCount": 0,
+        "color": "0095D5",
+        "logo": "rust",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Rust",
+        "promote": false
+    },
+    "npm": {
+        "issue": null,
         "score": "3/5",
         "label": "npm",
+        "endorsementCount": 0,
         "color": "CB3837",
-        "logo": "npm"
+        "logo": "npm",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Npm",
+        "promote": false
     },
-    "Composer": {
-        "issue": 55,
+    "composer": {
+        "issue": null,
         "score": "4/5",
         "label": "Composer",
+        "endorsementCount": 0,
         "color": "885630",
-        "logo": "composer"
+        "logo": "composer",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Composer",
+        "promote": false
     },
-    "Apps Script": {
+    "apps_script": {
         "issue": 56,
         "score": "3/5",
         "label": "Apps Script",
+        "endorsementCount": 0,
         "color": "4285F4",
-        "logo": "google"
+        "logo": "google",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/56",
+        "promote": false
     },
-    "Google Calendar Apps Script": {
+    "google_calendar_apps_script": {
         "issue": 57,
         "score": "3/5",
         "label": "Calendar Apps Script",
+        "endorsementCount": 0,
         "description": "Automation of creating events in your calendar.",
         "color": "4285F4",
-        "logo": "google-calendar"
+        "logo": "google-calendar",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/57",
+        "promote": false
+    },
+
+
+
+    "prisma": {
+        "issue": null,
+        "score": "3/5",
+        "label": "Prisma",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "2D3748",
+        "logo": "prisma",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Prisma",
+        "promote": false
+    },
+    "doctrine": {
+        "issue": null,
+        "score": "3/5",
+        "label": "Doctrine",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ff6817",
+        "logo": "doctrine",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Doctrine",
+        "promote": false
+    },
+    "express": {
+        "issue": 38,
+        "score": "4/5",
+        "label": "Express",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "express",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/38",
+        "promote": true
+    },
+    "yubico": {
+        "issue": null,
+        "score": "",
+        "label": "Yubico",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "84BD00",
+        "logo": "yubico",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Yubico",
+        "promote": false
+    },
+    "discord": {
+        "issue": null,
+        "score": "",
+        "label": "Discord",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "5865F2",
+        "logo": "discord",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Discord",
+        "promote": false
+    },
+    "extreme_automation": {
+        "issue": null,
+        "score": "",
+        "label": "Extreme Automation",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Extreme_Automation",
+        "promote": true
+    },
+
+
+
+    "iac": {
+        "issue": 26,
+        "score": "",
+        "label": "Infrastructure as Code (IaC)",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/26",
+        "promote": true
+    },
+    "nvc": {
+        "issue": null,
+        "score": "",
+        "label": "Nonviolent Communication (NVC)",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Nonviolent_Communication_(NVC)",
+        "promote": true
+    },
+    "mentorship": {
+        "issue": 52,
+        "score": "",
+        "label": "Mentorship",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/52",
+        "promote": true
+    },
+    "software_architecture": {
+        "issue": 35,
+        "score": "",
+        "label": "Software Architecture",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/35",
+        "promote": true
+    },
+    "solidity": {
+        "issue": 53,
+        "score": "2/5",
+        "label": "Solidity",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "363636",
+        "logo": "solidity",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/53",
+        "promote": false
+    },
+    "haskell": {
+        "issue": null,
+        "score": "2/5",
+        "label": "Haskell",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "363636",
+        "logo": "haskell",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Haskell",
+        "promote": false
+    },
+    "business_process_optimisation": {
+        "issue": 54,
+        "score": "",
+        "label": "Business Process Optimisation",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/54",
+        "promote": true
+    },
+    "design_thinking": {
+        "issue": 55,
+        "score": "",
+        "label": "Design Thinking",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "ffffff",
+        "logo": "",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/55",
+        "promote": true
+    },
+    "home_assistant": {
+        "issue": 61,
+        "score": "",
+        "label": "Home Assistant",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "03a9f4",
+        "logo": "home-assistant",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "https://github.com/ma-si/ma-si/issues/61",
+        "promote": true
+    },
+    "esp32": {
+        "issue": null,
+        "score": "",
+        "label": "ESP32",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": false
+    },
+    "coral": {
+        "issue": null,
+        "score": "",
+        "label": "Coral",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": false
+    },
+    "bash": {
+        "issue": null,
+        "score": "3/5",
+        "label": "Bash",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "Bash",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": true
+    },
+    "obs": {
+        "issue": null,
+        "score": "",
+        "label": "OBS",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "obs-studio",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": false
+    },
+    "phpunit": {
+        "issue": null,
+        "score": "",
+        "label": "PHPUnit",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": false
+    },
+    "sql": {
+        "issue": null,
+        "score": "4/5",
+        "label": "SQL",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "000000",
+        "logo": "",
+        "logoColor": "white",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": true
+    },
+    "javascript": {
+        "issue": null,
+        "score": "3/5",
+        "label": "JavaScript",
+        "endorsementCount": 0,
+        "description": "",
+        "color": "F7DF1E",
+        "logo": "JavaScript",
+        "logoColor": "black",
+        "endorsementImages": "",
+        "issueUrl": "",
+        "promote": true
     }
 }

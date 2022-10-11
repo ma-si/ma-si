@@ -1,11 +1,14 @@
 {
   "name": "ma-si",
   "version": "1.0.0",
-  "description": "<!--<h3 align=\"center\"> ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png) </h3> -->",
+  "description": "Interactive CV",
   "main": "index.js",
   "scripts": {
-    "endorse": "node endorse.js",
-    "ts-endorse": "ts-node endorse.ts"
+    "endorsement": "node endorsement.js",
+    "skill": "node skill.js",
+    "recommendation": "node recommendation.js",
+    "fame": "node fame.js",
+    "ts-endorsement": "ts-node endorsement.ts"
   },
   "repository": {
     "type": "git",

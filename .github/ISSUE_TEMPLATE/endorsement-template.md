@@ -1,9 +1,11 @@
 ---
 name: endorsement template
 about: endorse for a new skill
-title: 'Endorse: SKILL_HERE'
+title: 'SKILL_HERE'
 labels: 'endorsement'
-assignees: ''
+assignees: 'ma-si'
+projects: "ma-si/5"
 ---
 
-> endorsement here!
+To endorse add reaction under this comment.
+👍😄🎉❤️🚀👀

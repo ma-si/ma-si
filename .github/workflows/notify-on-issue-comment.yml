@@ -1,0 +1,20 @@
+name: "Notification [ISSUE COMMENT]"
+
+on:
+    issue_comment:
+        types: [ created, edited, deleted ]
+
+jobs:
+    message:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v4
+            -   name: "Discord Notification - issue comment"
+                uses: tsickert/discord-webhook@v5.3.0
+                with:
+                    webhook-url: "${{ secrets.WEBHOOK_URL }}"
+                    embed-title: "${{ github.event.issue.title }} [comment ${{ github.event.action }}]"
+                    embed-description: "${{ github.event.comment.body }}"
+                    embed-author-name: "${{ github.event.comment.user.login }}"
+                    embed-author-url: "${{ github.event.comment.user.html_url }}"
+                    embed-author-icon-url: "${{ github.event.comment.user.avatar_url }}"
