@@ -1,32 +1,49 @@
-# Backend Dev ♞ DevOps Engineer 💎 Software Architect
+> **I would like to add you to my professional network on the GITHUB.**  
+> This is interactive profile so enjoy finding easter eggs & endorsing me when I least expect it.  
+> Endorsements are very easy to do and you don’t really put a lot of stock in them.
+>
+> To endorse my skills click `Endorse me!` below & next pick your reaction 👍😄🎉❤️🚀👀 under the issue.  
+> To endorse other my skills [create new issue using the template](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
+and then pick your reaction 👍😄🎉❤️🚀👀 under the issue.
+> 
+> **Have a fun :)**  
+> Thank you for received endorsements
 
-Enthusiast of simplicity using principles: KISS, DRY, SOLID and working in methodologies: BDD, TDD, Scrum.
+# Process Engineer 💎 Change Architect
 
-Fan of automation in the work such as: Docker Compose, CI/CD, GitHub actions, Bitbucket pipelines, Ansible, IaC.
+<!--START_SECTION:MISSION-->
+## ❤️ MISSION
 
-Specialized in performance and high scalability, API & microservices. Interested in software architecture & security.
+Inspiring others to share and explore knowledge in a collaborative community.
+<!--END_SECTION:MISSION-->
 
 
 
-<!--START_SECTION:INTERESTS-->
-## 🧠 INTERESTS
+<!--START_SECTION:VALUES-->
+## 🧠 VALUES
 
-Mindfulness, Minimalism
-
-Sailing, Wakeboarding
-
-Ski-touring, Skiing, Snowboarding
-
-Coffee Culture
-
-Photography
-
-<!--END_SECTION:INTERESTS-->
+- STAY CURIOUS
+  __Always wonder. Always explore.__
+- SPEAK WITH HEART
+  __Be your true self__
+- WORK SMART
+  __Think. Discuss. Design. Automate.__
+- STRIVE FOR BETTER
+  __Reach far. Aim high. Dream big.__
+- DELIVER WITH QUALITY
+  __Move fast. Do it right. Be proud.__
+- LEND A HAND
+  __We are all in this together.__
+<!--END_SECTION:VALUES-->
 
 
 
 <!--START_SECTION:VOLUNTEERING-->
 ## 🩸 VOLUNTEERING
+
+**NVC Learning Group**
+_Co-Host_ & _Member_
+(2022.09 - present)
 
 **MENSA Poland**
 _Member_
@@ -43,136 +60,154 @@ _Medical Staff_
 **Orlen Warsaw Marathon**
 _Medical Staff_
 (2017.04.23)
-
 <!--END_SECTION:VOLUNTEERING-->
 
 
 
 <!--START_SECTION:ENDORSEMENTS-->
-  ## ✨ SKILLS & ENDORSEMENTS
-  
-  I would like to add you to my professional network on the GITHUB.
-  To endorse my skills click below & pick your reaction under the skill `Endorse: ...` issue or [Create new one!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE).
-  
-  [![Calendar Apps Script](https://img.shields.io/badge/Google_Calendar_Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google-calendar)](https://github.com/ma-si/ma-si/issues/57) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/57)
+## ✨ SKILLS & ENDORSEMENTS
 
-[![Apps Script](https://img.shields.io/badge/Apps_Script-3/5_(2)-4285F4?style=for-the-badge&logo=google)](https://github.com/ma-si/ma-si/issues/56) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/56)
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |    |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
+| [![PHP](https://img.shields.io/badge/php-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                                       | [Endorse me!](https://github.com/ma-si/ma-si/issues/1) |
+| [![Ansible](https://img.shields.io/badge/ansible-3/5_(2)-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/2) |
+| [![Angular](https://img.shields.io/badge/angular-3/5_(2)-DD0031?style=for-the-badge&logo=angular)](https://github.com/ma-si/ma-si/issues/3) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/3) |
+| [![React](https://img.shields.io/badge/react-2/5_(1)-45b8d8?style=for-the-badge&logo=react)](https://github.com/ma-si/ma-si/issues/4) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                            | [Endorse me!](https://github.com/ma-si/ma-si/issues/4) |
+| [![Symfony](https://img.shields.io/badge/symfony-4/5_(2)-000000?style=for-the-badge&logo=symfony)](https://github.com/ma-si/ma-si/issues/5) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/5) |
+| [![Laminas](https://img.shields.io/badge/laminas-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/6) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                    | [Endorse me!](https://github.com/ma-si/ma-si/issues/6) |
+| [![PostgreSQL](https://img.shields.io/badge/postgresql-4/5_(2)-336791?style=for-the-badge&logo=postgresql)](https://github.com/ma-si/ma-si/issues/7) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                  | [Endorse me!](https://github.com/ma-si/ma-si/issues/7) |
+| [![Amazon Web Services](https://img.shields.io/badge/aws-2/5_(1)-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/ma-si/ma-si/issues/9) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/9) |
+| [![Google Cloud Platform](https://img.shields.io/badge/gcp-1/5_(1)-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                      | [Endorse me!](https://github.com/ma-si/ma-si/issues/10) |
+| [![Docker](https://img.shields.io/badge/docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) <img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28"><img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                             | [Endorse me!](https://github.com/ma-si/ma-si/issues/11) |
+| [![Git](https://img.shields.io/badge/git-4/5_(1)-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                                 | [Endorse me!](https://github.com/ma-si/ma-si/issues/12) |
+| [![Github Actions](https://img.shields.io/badge/github_actions-4/5_(1)-2088FF?style=for-the-badge&logo=github-actions)](https://github.com/ma-si/ma-si/issues/13) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                | [Endorse me!](https://github.com/ma-si/ma-si/issues/13) |
+| [![Bitbucket Pipelines](https://img.shields.io/badge/bitbucket_pipelines-4/5_(1)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/14) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/14) |
+| [![Jenkins](https://img.shields.io/badge/jenkins-2/5_(1)-D24939?style=for-the-badge&logo=jenkins)](https://github.com/ma-si/ma-si/issues/15) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                     | [Endorse me!](https://github.com/ma-si/ma-si/issues/15) |
+| [![Travis CI](https://img.shields.io/badge/travis_ci-3/5_(1)-3EAAAF?style=for-the-badge&logo=travis-ci)](https://github.com/ma-si/ma-si/issues/16) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                               | [Endorse me!](https://github.com/ma-si/ma-si/issues/16) |
+| [![Grafana](https://img.shields.io/badge/grafana-1/5_(0)-F46800?style=for-the-badge&logo=grafana)](https://github.com/ma-si/ma-si/issues/17)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/17) |
+| [![RabbitMQ](https://img.shields.io/badge/rabbitmq-3/5_(2)-FF6600?style=for-the-badge&logo=rabbitmq)](https://github.com/ma-si/ma-si/issues/18) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                       | [Endorse me!](https://github.com/ma-si/ma-si/issues/18) |
+| [![Redis](https://img.shields.io/badge/redis-4/5_(1)-DC382D?style=for-the-badge&logo=redis)](https://github.com/ma-si/ma-si/issues/19) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/19) |
+| [![Nginx](https://img.shields.io/badge/nginx-3/5_(1)-269539?style=for-the-badge&logo=nginx)](https://github.com/ma-si/ma-si/issues/20) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/20) |
+| [![Apache](https://img.shields.io/badge/apache-3/5_(1)-D22128?style=for-the-badge&logo=apache)](https://github.com/ma-si/ma-si/issues/21) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/21) |
+| [![Lighthouse](https://img.shields.io/badge/lighthouse-2/5_(0)-F44B21?style=for-the-badge&logo=lighthouse)](https://github.com/ma-si/ma-si/issues/22)                                                                                                                                                                                                                                                                                                                                               | [Endorse me!](https://github.com/ma-si/ma-si/issues/22) |
+| [![MySQL](https://img.shields.io/badge/mysql-3/5_(1)-4479A1?style=for-the-badge&logo=mysql)](https://github.com/ma-si/ma-si/issues/23) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/23) |
+| [![MariaDB](https://img.shields.io/badge/mariadb-2/5_(0)-003545?style=for-the-badge&logo=mariadb)](https://github.com/ma-si/ma-si/issues/24)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/24) |
+| [![MongoDB](https://img.shields.io/badge/mongodb-1/5_(0)-13aa52?style=for-the-badge&logo=mongodb)](https://github.com/ma-si/ma-si/issues/25)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/25) |
+| [![Infrastructure as Code (IaC)](https://img.shields.io/badge/iac-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/26)                                                                                                                                                                                                                                                                                                                                                 | [Endorse me!](https://github.com/ma-si/ma-si/issues/26) |
+| [![ElasticSearch](https://img.shields.io/badge/elasticsearch-3/5_(2)-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/ma-si/ma-si/issues/27) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/27) |
+| [![Kibana](https://img.shields.io/badge/kibana-1/5_(0)-005571?style=for-the-badge&logo=kibana)](https://github.com/ma-si/ma-si/issues/28)                                                                                                                                                                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/28) |
+| [![Elastic Stack](https://img.shields.io/badge/elastic_stack-1/5_(0)-005571?style=for-the-badge&logo=elastic-stack)](https://github.com/ma-si/ma-si/issues/29)                                                                                                                                                                                                                                                                                                                                      | [Endorse me!](https://github.com/ma-si/ma-si/issues/29) |
+| [![Node](https://img.shields.io/badge/node-3/5_(2)-43853d?style=for-the-badge&logo=node.js)](https://github.com/ma-si/ma-si/issues/30) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                                | [Endorse me!](https://github.com/ma-si/ma-si/issues/30) |
+| [![Mezzio](https://img.shields.io/badge/mezzio-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/31) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                     | [Endorse me!](https://github.com/ma-si/ma-si/issues/31) |
+| [![Redux](https://img.shields.io/badge/redux-2/5_(0)-764ABC?style=for-the-badge&logo=redux)](https://github.com/ma-si/ma-si/issues/32)                                                                                                                                                                                                                                                                                                                                                              | [Endorse me!](https://github.com/ma-si/ma-si/issues/32) |
+| [![TypeScript](https://img.shields.io/badge/typescript-3/5_(0)-007ACC?style=for-the-badge&logo=typescript)](https://github.com/ma-si/ma-si/issues/33)                                                                                                                                                                                                                                                                                                                                               | [Endorse me!](https://github.com/ma-si/ma-si/issues/33) |
+| [![GraphQL](https://img.shields.io/badge/graphql-3/5_(0)-E10098?style=for-the-badge&logo=graphql)](https://github.com/ma-si/ma-si/issues/34)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/34) |
+| [![Software Architecture](https://img.shields.io/badge/software_architecture-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/35)                                                                                                                                                                                                                                                                                                                                      | [Endorse me!](https://github.com/ma-si/ma-si/issues/35) |
+| [![OpenAPI](https://img.shields.io/badge/openapi-3/5_(0)-6BA539?style=for-the-badge&logo=openapi-initiative)](https://github.com/ma-si/ma-si/issues/36)                                                                                                                                                                                                                                                                                                                                             | [Endorse me!](https://github.com/ma-si/ma-si/issues/36) |
+| [![Swagger](https://img.shields.io/badge/swagger-3/5_(0)-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/ma-si/ma-si/issues/37)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/37) |
+| [![Markdown](https://img.shields.io/badge/markdown-5/5_(0)-000000?style=for-the-badge&logo=markdown)](https://github.com/ma-si/ma-si/issues/38)                                                                                                                                                                                                                                                                                                                                                     | [Endorse me!](https://github.com/ma-si/ma-si/issues/38) |
+| [![gMaps API](https://img.shields.io/badge/gmaps_api-3/5_(0)-0052CC?style=for-the-badge&logo=google-maps)](https://github.com/ma-si/ma-si/issues/39)                                                                                                                                                                                                                                                                                                                                                | [Endorse me!](https://github.com/ma-si/ma-si/issues/39) |
+| [![PayPal](https://img.shields.io/badge/paypal-4/5_(2)-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                             | [Endorse me!](https://github.com/ma-si/ma-si/issues/40) |
+| [![Stripe](https://img.shields.io/badge/stripe-4/5_(2)-008CDD?style=for-the-badge&logo=stripe)](https://github.com/ma-si/ma-si/issues/41) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                             | [Endorse me!](https://github.com/ma-si/ma-si/issues/41) |
+| [![Crowdin](https://img.shields.io/badge/crowdin-3/5_(0)-2E3340?style=for-the-badge&logo=crowdin)](https://github.com/ma-si/ma-si/issues/42)                                                                                                                                                                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/42) |
+| [![GitHub](https://img.shields.io/badge/github-4/5_(1)-000000?style=for-the-badge&logo=github)](https://github.com/ma-si/ma-si/issues/43) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                        | [Endorse me!](https://github.com/ma-si/ma-si/issues/43) |
+| [![GitLab](https://img.shields.io/badge/gitlab-3/5_(0)-FCA121?style=for-the-badge&logo=gitlab)](https://github.com/ma-si/ma-si/issues/44)                                                                                                                                                                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/44) |
+| [![Bitbucket](https://img.shields.io/badge/bitbucket-3/5_(0)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/45)                                                                                                                                                                                                                                                                                                                                                  | [Endorse me!](https://github.com/ma-si/ma-si/issues/45) |
+| [![Jira](https://img.shields.io/badge/jira-3/5_(0)-0052CC?style=for-the-badge&logo=jira)](https://github.com/ma-si/ma-si/issues/46)                                                                                                                                                                                                                                                                                                                                                                 | [Endorse me!](https://github.com/ma-si/ma-si/issues/46) |
+| [![Asana](https://img.shields.io/badge/asana-2/5_(0)-273347?style=for-the-badge&logo=asana)](https://github.com/ma-si/ma-si/issues/47)                                                                                                                                                                                                                                                                                                                                                              | [Endorse me!](https://github.com/ma-si/ma-si/issues/47) |
+| [![Trello](https://img.shields.io/badge/trello-2/5_(0)-0079BF?style=for-the-badge&logo=trello)](https://github.com/ma-si/ma-si/issues/48)                                                                                                                                                                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/48) |
+| [![Confluence](https://img.shields.io/badge/confluence-2/5_(0)-0052CC?style=for-the-badge&logo=confluence)](https://github.com/ma-si/ma-si/issues/49)                                                                                                                                                                                                                                                                                                                                               | [Endorse me!](https://github.com/ma-si/ma-si/issues/49) |
+| [![Postman](https://img.shields.io/badge/postman-3/5_(1)-FF6C37?style=for-the-badge&logo=postman)](https://github.com/ma-si/ma-si/issues/50) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">                                                                                                                                                                                                     | [Endorse me!](https://github.com/ma-si/ma-si/issues/50) |
+| [![Notion](https://img.shields.io/badge/notion-4/5_(0)-000000?style=for-the-badge&logo=notion)](https://github.com/ma-si/ma-si/issues/51)                                                                                                                                                                                                                                                                                                                                                           | [Endorse me!](https://github.com/ma-si/ma-si/issues/51) |
+| [![Slack](https://img.shields.io/badge/slack-3/5_(0)-4A154B?style=for-the-badge&logo=slack)](https://github.com/ma-si/ma-si/issues/52)                                                                                                                                                                                                                                                                                                                                                              | [Endorse me!](https://github.com/ma-si/ma-si/issues/52) |
+| [![Solidity](https://img.shields.io/badge/solidity-2/5_(0)-363636?style=for-the-badge&logo=solidity)](https://github.com/ma-si/ma-si/issues/53)                                                                                                                                                                                                                                                                                                                                                     | [Endorse me!](https://github.com/ma-si/ma-si/issues/53) |
+| [![Business Process Optimisation](https://img.shields.io/badge/business_process_optimisation-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/54)                                                                                                                                                                                                                                                                                                                      | [Endorse me!](https://github.com/ma-si/ma-si/issues/54) |
+| [![Design Thinking](https://img.shields.io/badge/design_thinking-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/55)                                                                                                                                                                                                                                                                                                                                                  | [Endorse me!](https://github.com/ma-si/ma-si/issues/55) |
+| [![Apps Script](https://img.shields.io/badge/apps_script-3/5_(2)-4285F4?style=for-the-badge&logo=google)](https://github.com/ma-si/ma-si/issues/56) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28">                                   | [Endorse me!](https://github.com/ma-si/ma-si/issues/56) |
+| [![Calendar Apps Script](https://img.shields.io/badge/google_calendar_apps_script-3/5_(2)-4285F4?style=for-the-badge&logo=google-calendar)](https://github.com/ma-si/ma-si/issues/57) <img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28"><img alt="andriej-babuk" src="https://avatars.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28" width="28" height="28"> | [Endorse me!](https://github.com/ma-si/ma-si/issues/57) |
 
-[![Composer](https://img.shields.io/badge/Composer-4/5_(0)-885630?style=for-the-badge&logo=composer)](https://github.com/ma-si/ma-si/issues/55)  [Endorse me!](https://github.com/ma-si/ma-si/issues/55)
-
-[![npm](https://img.shields.io/badge/Npm-3/5_(0)-CB3837?style=for-the-badge&logo=npm)](https://github.com/ma-si/ma-si/issues/54)  [Endorse me!](https://github.com/ma-si/ma-si/issues/54)
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-2/5_(0)-0095D5?style=for-the-badge&logo=kotlin)](https://github.com/ma-si/ma-si/issues/53)  [Endorse me!](https://github.com/ma-si/ma-si/issues/53)
-
-[![Slack](https://img.shields.io/badge/Slack-3/5_(0)-4A154B?style=for-the-badge&logo=slack)](https://github.com/ma-si/ma-si/issues/52)  [Endorse me!](https://github.com/ma-si/ma-si/issues/52)
-
-[![Notion](https://img.shields.io/badge/Notion-4/5_(0)-000000?style=for-the-badge&logo=notion)](https://github.com/ma-si/ma-si/issues/51)  [Endorse me!](https://github.com/ma-si/ma-si/issues/51)
-
-[![Postman](https://img.shields.io/badge/Postman-3/5_(1)-FF6C37?style=for-the-badge&logo=postman)](https://github.com/ma-si/ma-si/issues/50) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/50)
-
-[![Confluence](https://img.shields.io/badge/Confluence-2/5_(0)-0052CC?style=for-the-badge&logo=confluence)](https://github.com/ma-si/ma-si/issues/49)  [Endorse me!](https://github.com/ma-si/ma-si/issues/49)
-
-[![Trello](https://img.shields.io/badge/Trello-2/5_(0)-0079BF?style=for-the-badge&logo=trello)](https://github.com/ma-si/ma-si/issues/48)  [Endorse me!](https://github.com/ma-si/ma-si/issues/48)
-
-[![Asana](https://img.shields.io/badge/Asana-2/5_(0)-273347?style=for-the-badge&logo=asana)](https://github.com/ma-si/ma-si/issues/47)  [Endorse me!](https://github.com/ma-si/ma-si/issues/47)
-
-[![Jira](https://img.shields.io/badge/Jira-3/5_(0)-0052CC?style=for-the-badge&logo=jira)](https://github.com/ma-si/ma-si/issues/46)  [Endorse me!](https://github.com/ma-si/ma-si/issues/46)
-
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-3/5_(0)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/45)  [Endorse me!](https://github.com/ma-si/ma-si/issues/45)
-
-[![GitLab](https://img.shields.io/badge/GitLab-3/5_(0)-FCA121?style=for-the-badge&logo=gitlab)](https://github.com/ma-si/ma-si/issues/44)  [Endorse me!](https://github.com/ma-si/ma-si/issues/44)
-
-[![GitHub](https://img.shields.io/badge/GitHub-4/5_(1)-000000?style=for-the-badge&logo=github)](https://github.com/ma-si/ma-si/issues/43) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/43)
-
-[![Crowdin](https://img.shields.io/badge/Crowdin-3/5_(0)-2E3340?style=for-the-badge&logo=crowdin)](https://github.com/ma-si/ma-si/issues/42)  [Endorse me!](https://github.com/ma-si/ma-si/issues/42)
-
-[![Stripe](https://img.shields.io/badge/Stripe-4/5_(2)-008CDD?style=for-the-badge&logo=stripe)](https://github.com/ma-si/ma-si/issues/41) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/41)
-
-[![PayPal](https://img.shields.io/badge/PayPal-4/5_(2)-00457C?style=for-the-badge&logo=paypal)](https://github.com/ma-si/ma-si/issues/40) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/40)
-
-[![Google Maps API](https://img.shields.io/badge/gMaps_API-3/5_(0)-0052CC?style=for-the-badge&logo=google-maps)](https://github.com/ma-si/ma-si/issues/39)  [Endorse me!](https://github.com/ma-si/ma-si/issues/39)
-
-[![Markdown](https://img.shields.io/badge/Markdown-5/5_(0)-000000?style=for-the-badge&logo=markdown)](https://github.com/ma-si/ma-si/issues/38)  [Endorse me!](https://github.com/ma-si/ma-si/issues/38)
-
-[![Swagger](https://img.shields.io/badge/Swagger-3/5_(0)-85EA2D?style=for-the-badge&logo=swagger)](https://github.com/ma-si/ma-si/issues/37)  [Endorse me!](https://github.com/ma-si/ma-si/issues/37)
-
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-3/5_(0)-6BA539?style=for-the-badge&logo=openapi-initiative)](https://github.com/ma-si/ma-si/issues/36)  [Endorse me!](https://github.com/ma-si/ma-si/issues/36)
-
-[![JSON Web Tokens](https://img.shields.io/badge/JWT-4/5_(0)-000000?style=for-the-badge&logo=JSON-Web-Tokens)](https://github.com/ma-si/ma-si/issues/35)  [Endorse me!](https://github.com/ma-si/ma-si/issues/35)
-
-[![GraphQL](https://img.shields.io/badge/GraphQL-3/5_(0)-E10098?style=for-the-badge&logo=graphql)](https://github.com/ma-si/ma-si/issues/34)  [Endorse me!](https://github.com/ma-si/ma-si/issues/34)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3/5_(0)-007ACC?style=for-the-badge&logo=typescript)](https://github.com/ma-si/ma-si/issues/33)  [Endorse me!](https://github.com/ma-si/ma-si/issues/33)
-
-[![Redux](https://img.shields.io/badge/Redux-2/5_(0)-764ABC?style=for-the-badge&logo=redux)](https://github.com/ma-si/ma-si/issues/32)  [Endorse me!](https://github.com/ma-si/ma-si/issues/32)
-
-[![Mezzio](https://img.shields.io/badge/Mezzio-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/31) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/31)
-
-[![Node](https://img.shields.io/badge/Node-3/5_(2)-43853d?style=for-the-badge&logo=node.js)](https://github.com/ma-si/ma-si/issues/30) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/30)
-
-[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-1/5_(0)-005571?style=for-the-badge&logo=elastic-stack)](https://github.com/ma-si/ma-si/issues/29)  [Endorse me!](https://github.com/ma-si/ma-si/issues/29)
-
-[![Kibana](https://img.shields.io/badge/Kibana-1/5_(0)-005571?style=for-the-badge&logo=kibana)](https://github.com/ma-si/ma-si/issues/28)  [Endorse me!](https://github.com/ma-si/ma-si/issues/28)
-
-[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-3/5_(2)-005571?style=for-the-badge&logo=elasticsearch)](https://github.com/ma-si/ma-si/issues/27) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/27)
-
-[![SQLite](https://img.shields.io/badge/SQLite-2/5_(0)-003B57?style=for-the-badge&logo=sqlite)](https://github.com/ma-si/ma-si/issues/26)  [Endorse me!](https://github.com/ma-si/ma-si/issues/26)
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-1/5_(0)-13aa52?style=for-the-badge&logo=mongodb)](https://github.com/ma-si/ma-si/issues/25)  [Endorse me!](https://github.com/ma-si/ma-si/issues/25)
-
-[![MariaDB](https://img.shields.io/badge/MariaDB-2/5_(0)-003545?style=for-the-badge&logo=mariadb)](https://github.com/ma-si/ma-si/issues/24)  [Endorse me!](https://github.com/ma-si/ma-si/issues/24)
-
-[![MySQL](https://img.shields.io/badge/MySQL-3/5_(1)-4479A1?style=for-the-badge&logo=mysql)](https://github.com/ma-si/ma-si/issues/23) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/23)
-
-[![Lighthouse](https://img.shields.io/badge/Lighthouse-2/5_(0)-F44B21?style=for-the-badge&logo=lighthouse)](https://github.com/ma-si/ma-si/issues/22)  [Endorse me!](https://github.com/ma-si/ma-si/issues/22)
-
-[![Apache](https://img.shields.io/badge/Apache-3/5_(1)-D22128?style=for-the-badge&logo=apache)](https://github.com/ma-si/ma-si/issues/21) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/21)
-
-[![Nginx](https://img.shields.io/badge/Nginx-3/5_(1)-269539?style=for-the-badge&logo=nginx)](https://github.com/ma-si/ma-si/issues/20) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/20)
-
-[![Redis](https://img.shields.io/badge/Redis-4/5_(1)-DC382D?style=for-the-badge&logo=redis)](https://github.com/ma-si/ma-si/issues/19) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/19)
-
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3/5_(2)-FF6600?style=for-the-badge&logo=rabbitmq)](https://github.com/ma-si/ma-si/issues/18) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/18)
-
-[![Grafana](https://img.shields.io/badge/Grafana-1/5_(0)-F46800?style=for-the-badge&logo=grafana)](https://github.com/ma-si/ma-si/issues/17)  [Endorse me!](https://github.com/ma-si/ma-si/issues/17)
-
-[![Travis CI](https://img.shields.io/badge/Travis_CI-3/5_(1)-3EAAAF?style=for-the-badge&logo=travis-ci)](https://github.com/ma-si/ma-si/issues/16) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/16)
-
-[![Jenkins](https://img.shields.io/badge/Jenkins-2/5_(1)-D24939?style=for-the-badge&logo=jenkins)](https://github.com/ma-si/ma-si/issues/15) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/15)
-
-[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-4/5_(1)-0052CC?style=for-the-badge&logo=bitbucket)](https://github.com/ma-si/ma-si/issues/14) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/14)
-
-[![Github Actions](https://img.shields.io/badge/Github_Actions-4/5_(1)-2088FF?style=for-the-badge&logo=github-actions)](https://github.com/ma-si/ma-si/issues/13) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/13)
-
-[![Git](https://img.shields.io/badge/Git-4/5_(1)-F05032?style=for-the-badge&logo=git)](https://github.com/ma-si/ma-si/issues/12) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/12)
-
-[![Docker](https://img.shields.io/badge/Docker-4/5_(2)-46a2f1?style=for-the-badge&logo=docker)](https://github.com/ma-si/ma-si/issues/11) ![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28)![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/11)
-
-[![Google Cloud Platform](https://img.shields.io/badge/GCP-1/5_(1)-4285F4?style=for-the-badge&logo=google-cloud)](https://github.com/ma-si/ma-si/issues/10) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/10)
-
-[![Amazon Web Services](https://img.shields.io/badge/AWS-2/5_(1)-232F3E?style=for-the-badge&logo=amazon-aws)](https://github.com/ma-si/ma-si/issues/9) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/9)
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4/5_(2)-336791?style=for-the-badge&logo=postgresql)](https://github.com/ma-si/ma-si/issues/7) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/7)
-
-[![Laminas](https://img.shields.io/badge/Laminas-5/5_(2)-68B604?style=for-the-badge&logo=zend-framework)](https://github.com/ma-si/ma-si/issues/6) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/6)
-
-[![Symfony](https://img.shields.io/badge/Symfony-4/5_(2)-000000?style=for-the-badge&logo=symfony)](https://github.com/ma-si/ma-si/issues/5) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/5)
-
-[![React](https://img.shields.io/badge/React-2/5_(1)-45b8d8?style=for-the-badge&logo=react)](https://github.com/ma-si/ma-si/issues/4) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/4)
-
-[![Ansible](https://img.shields.io/badge/Angular-3/5_(2)-DD0031?style=for-the-badge&logo=angular)](https://github.com/ma-si/ma-si/issues/3) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/3)
-
-[![Ansible](https://img.shields.io/badge/Ansible-2/5_(2)-EE0000?style=for-the-badge&logo=ansible)](https://github.com/ma-si/ma-si/issues/2) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/2)
-
-[![PHP](https://img.shields.io/badge/PHP-4/5_(2)-777BB4?style=for-the-badge&logo=php)](https://github.com/ma-si/ma-si/issues/1) ![ma-si](https://avatars1.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28)![andriej-babuk](https://avatars2.githubusercontent.com/u/70507664?u=ef1ff848c0b81f76797795b1a9fbd529144808a8&v=4&s=28) [Endorse me!](https://github.com/ma-si/ma-si/issues/1)
-  
-  [Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
-  <!--END_SECTION:ENDORSEMENTS-->
+[Endorse new skill!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE)
 
 
 
-<!--START_SECTION:REFERENCES-->
-## ⭐ REFERENCES
+### Skills
+
+ ![Software Architecture](https://img.shields.io/badge/-software_architecture-ffffff?style=flat-square&logo=&logoColor=black) ![Design Thinking](https://img.shields.io/badge/-design_thinking-ffffff?style=flat-square&logo=&logoColor=black) ![Business Process Optimisation](https://img.shields.io/badge/-business_process_optimisation-ffffff?style=flat-square&logo=&logoColor=black) ![Infrastructure as Code (IaC)](https://img.shields.io/badge/-iac-ffffff?style=flat-square&logo=&logoColor=white) ![Nonviolent Communication (NVC)](https://img.shields.io/badge/-nvc-ffffff?style=flat-square&logo=&logoColor=black)
+### Programming Languages
+
+![PHP](https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=php&logoColor=white) ![Node](https://img.shields.io/badge/-node-43853d?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-typescript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+### Frameworks
+
+![Symfony](https://img.shields.io/badge/-symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Doctrine](https://img.shields.io/badge/-doctrine-ff6817?style=flat-square&logo=doctrine&logoColor=white) ![Express](https://img.shields.io/badge/-express-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Mezzio](https://img.shields.io/badge/-mezzio-68B604?style=flat-square&logo=zend-framework&logoColor=white) ![Angular](https://img.shields.io/badge/-angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Laminas](https://img.shields.io/badge/-laminas-68B604?style=flat-square&logo=zend-framework&logoColor=white) ![React](https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white)
+### Tools
+
+![Git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/-aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Github Actions](https://img.shields.io/badge/-github_actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Bitbucket Pipelines](https://img.shields.io/badge/-bitbucket_pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Jenkins](https://img.shields.io/badge/-jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Travis CI](https://img.shields.io/badge/-travis_ci-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Composer](https://img.shields.io/badge/-composer-885630?style=flat-square&logo=composer&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/-nginx-269539?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/-apache-D22128?style=flat-square&logo=apache&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-mariadb-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/-mongodb-13aa52?style=flat-square&logo=mongodb&logoColor=white) ![Grafana](https://img.shields.io/badge/-grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Lighthouse](https://img.shields.io/badge/-lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white) ![Kibana](https://img.shields.io/badge/-kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![GitHub](https://img.shields.io/badge/-github-000000?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/-jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/-asana-273347?style=flat-square&logo=asana&logoColor=white) ![Trello](https://img.shields.io/badge/-trello-0079BF?style=flat-square&logo=trello&logoColor=white) ![Confluence](https://img.shields.io/badge/-confluence-0052CC?style=flat-square&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/-postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/-slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/-discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![Redux](https://img.shields.io/badge/-redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![GraphQL](https://img.shields.io/badge/-graphql-E10098?style=flat-square&logo=graphql&logoColor=white)  ![OpenAPI](https://img.shields.io/badge/-openapi-6BA539?style=flat-square&logo=openapi-initiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Markdown](https://img.shields.io/badge/-markdown-000000?style=flat-square&logo=markdown&logoColor=white)  ![PayPal](https://img.shields.io/badge/-paypal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Stripe](https://img.shields.io/badge/-stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Crowdin](https://img.shields.io/badge/-crowdin-2E3340?style=flat-square&logo=crowdin&logoColor=white) ![Yubico](https://img.shields.io/badge/-yubico-84BD00?style=flat-square&logo=yubico&logoColor=white)
+### Other
+
+`Mentorship` `JSON Web Tokens` `Google Maps API`
+
+
+<!--END_SECTION:ENDORSEMENTS-->
+
+
+
+<!--START_SECTION:ASSESSMENTS-->
+## 🏅 ASSESSMENTS
+
+![Mensa](https://img.shields.io/badge/IQ-131_Wechsler-336791?style=flat-square&logo=mensa&logoColor=white)
+![Mensa](https://img.shields.io/badge/IQ-150_Cattell-336791?style=flat-square&logo=mensa&logoColor=white)
+Associated with MENSA Poland - High IQ Society · Nov 2017
+
+![Git](https://img.shields.io/badge/Git_Expert-702/800-F05032?style=flat-square&logo=git&logoColor=white)
+Oct 2014 on [smarterer](https://smarterer.com/scores/220c651e0f586a5e4dc8f2b47f8a06aa)
+
+![PHP](https://img.shields.io/badge/PHP_Proficient-565/800-777BB4?style=flat-square&logo=php&logoColor=white)
+Oct 2014 on [smarterer](https://smarterer.com/scores/f669fab03072030f0e9e9eac7505f31c)
+
+![PHP](https://img.shields.io/badge/PHP_Expert-top_5_percent-777BB4?style=flat-square&logo=php&logoColor=white)
+on [LinkedIn](linkedin.com)
+
+![Laminas](https://img.shields.io/badge/Laminas_Expert-775/800-68B604?style=flat-square&logo=zend-framework&logoColor=white)
+on [smarterer](https://smarterer.com/scores/7db01f3a793b7b4b204bd57dc6f4a1e8) · Oct 2014
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Proficient-533/800-336791?style=flat-square&logo=postgresql&logoColor=white)
+on [smarterer](https://smarterer.com/scores/47412b47e464492a166b5e5b0393a366)· Oct 2014
+<!--END_SECTION:ASSESSMENTS-->
+
+
+
+<!--START_SECTION:COURSES-->
+## 🎓 COURSES
+
+- `Fundamental Internet Technology` IT Media s.c. 2008.08
+- `Advanced Internet Technology` IT Media s.c. 2008.08
+- `ZF2: Advanced Course Concepts` Zend Technologies Ltd. 2013.11
+- `Cryptography I` Stanford University on Coursera 2014.10
+- `Algorithms I` Princeton University on Coursera 2014.10
+- `Cryptography II` Stanford University on Coursera 2014.11
+- `Artificial Intelligence` National Taiwan University on Coursera 2014.11
+- `Algorithms II` Princeton University on Coursera 2014.12
+- `Web App Security: attacking & protecting` Niebezpiecznik PL 2017.11
+<!--END_SECTION:COURSES-->
+
+
+
+<!--START_SECTION:RECOMMENDATIONS-->
+## ⭐ RECOMMENDATIONS
+
+> Mateusz is a very contact and organized person.
+> We worked together on various IT projects. During our cooperation, I have always been able to count on Mateusz's commitment and support.
+> I appreciate his willingness to continuously improve and open up to new ideas.
+> 
+> -- Agnieszka | HR Specialist Recruiter
+
+
+
+> Mateusz is a great and supportive specialist. He knows how to speak with non-developers about development challenges, so it's easy to understand and make a decision. He is based on his technical experience, but also has good aesthetic taste. Full of initiative and engaged. It was a pleasure to work with Mateusz on building my law firm’s website. I am going to be back for its update.
+>
+> -- Natalia | Legal Counsel HR & Compliance
+
+
 
 > Mateusz is a really responsible and talented developer. I was very pleased to work with him also because of affability and readiness to help as soon as possible. I highly recommend him!
 >
@@ -208,7 +243,319 @@ _Medical Staff_
 >
 > -- Marcin | IT Project Manager
 
-<!--END_SECTION:REFERENCES-->
+<!--END_SECTION:RECOMMENDATIONS-->
+
+
+
+<!--START_SECTION:PROJECTS-->
+## 💼 PROJECTS
+
+### S..W.... | International Logistics Company
+_Improvement Evangelist_ | _Senior Software Engineer_ (2022.03-)
+
+- Designing & programming microservices
+
+`PHP 8.2`, `Symfony`, `IaC`
+
+
+
+### H.....io | AIST Smart Technologies
+_Project Manager_ | _Software Architect_ | _DevOps Engineer_ (-)
+
+Applicant tracking system (ATS).
+Application that enables the electronic handling of recruitment and hiring needs.
+CRM application for managing recruitment processes & maintaining professional contacts.
+
+- Designing & programming microservices
+
+`PHP 7.4`, `Mezzio`, `Node`, `Angular`, `ElasticSearch`, `RabbitMQ`, `Docker`, `IaC`, `Ansible`, `AWS`, `CI/CD`
+
+
+
+### P.......W.....M...... | AIST Smart Technologies
+_Project Manager_ | _Software Architect_ | _DevOps Engineer_ (2021.09-)
+
+Application for managing investment portfolios.
+
+- Angular client development
+- API development
+- External APIs integration
+- Signals & automation
+
+`PHP 8`, `Node`, `Angular 12`, `Queue Communication`, `Docker`, `Web Sockets`
+
+![Budget Module & API microservice](./data/img/budget-dashboard.png)
+Budget Module & API microservice
+
+![Goal Module & API microservice](./data/img/goal-dashboard.png)
+Goal Module & API microservice
+
+![Investment Module & API microservice](./data/img/investment-dashboard.png)
+Investment Module & API microservice
+
+
+
+### P......M...... | AIST Smart Technologies
+_Project Manager_ | _Software Architect_ | _DevOps Engineer_ (2021.09-)
+
+Project management and automation software for managers, freelancers & programmers.
+
+- Angular client development
+- API development
+
+`PHP 8`, `Node`, `Angular 12`, `Queue Communication`, `Docker`
+
+
+
+### T...M...... | AIST Smart Technologies
+_Project Manager_ | _Software Architect_ | _DevOps Engineer_ (2021.09-)
+
+Task management and automation software for Scrum & Kanban boards.
+
+- Angular client development
+- API development
+
+`PHP 8`, `Node`, `Angular 12`, `Queue Communication`, `Docker`
+
+
+
+### A.........M...... | AIST Smart Technologies
+_Project Manager_ | _Software Architect_ | _DevOps Engineer_ (2021.09-)
+
+Onboarding and automation software for accountants & payroll businesses.
+
+- Angular client development
+- API development
+
+`PHP 8`, `Node`, `Angular 12`, `Queue Communication`, `Docker`
+
+
+
+### LegalMetrics | Publishing Company
+_Contract Software Developer_ (2020.07-2021.12)
+
+Quotes of copyrighted content require the accumulation of the compensation-for-use reserve. Application algorithms calculates reserves for content creators and basic copyright holders based on metrics.
+
+- Angular client development
+- API development
+
+`PHP 8`, `Angular 8`, `Symfony`, `Redis`, `Docker`, `CLI`, `RabbitMQ`, `Elastic Search`, `Jenkins`, `OpenAPI`
+
+
+
+### S..D......... | Insurance Broker
+_Contract DevOps Engineer_ | _Senior Software Developer_ (2020.01-2020.03)
+
+- Setting up CI/CD & Azure
+- Designing & developing Node microservices
+- Developing React client
+
+`Node`, `React`, `TypeScript`, `Docker`, `IaC`, `Azure`
+
+
+
+### A...F.... | Automotive Insurance Company
+_Contract Senior Developer_ (2019.05-2019.12)
+
+Fraud detection system
+
+- Setting up CI/CD & AWS
+- API client development & CLI consumer
+
+`Symfony`, `CLI`, `GraphQL`, `API`, `Queue`, `AWS`
+
+
+
+### <a href="https://jobstoday.world/en/">jobstoday.world</a> | JobsToday
+_Contract DevOps Engineer_ | _Software Architect_ | _Team Leader_ (2017.09-2018.08)
+
+Leader in innovative & cost-effective eRecruitment Platform in Switzerland, Germany, Poland & Austria.
+
+- Code review of an existing source
+- Security audit & report
+- Redesigning architecture
+- Code refactoring
+- Separate API Architecture
+- Performance optimization
+- ElasticSearch implementation
+- Redis Implementation
+- Organizing & automating dev environment and deployment
+- Manage deployment of version 2
+- PayPal & Stripe payments implementation
+- Google Maps API integration for the search location
+- Internationalization & translation implementation
+- Currency exchange rates API integration
+- Geolocation implementation
+- Affiliate Marketing implementation for HR clients
+- Conducting technical recruitment of Zend Framework 2&3 specialists
+
+`PHP 7`, `Zend Framework 2`, `Zend Framework 3`, `Docker`, `Redis`, `ElasticSearch`, `Pug`, `Gulp`
+
+![New architecture with full text search integrated](./data/img/jobstoday.png)
+New architecture with full text search integrated
+
+
+
+### V..M..... | Telecommunications Company
+_Contract Software Architect_ | _Team Leader_ | _Senior Software Developer_ (2017.03-2017.10)
+
+System that includes client data in order to deliver personalized messages for dynamic videos. Clients are big companies who want to engage in a discussion with their final clients through an innovative media like personalized videos.
+
+- Code review
+- Software architecture
+- Performance optimization
+- Security inspection
+- JWT Auth (JSON Web Tokens) integration
+
+`PHP 7`, `Zend Expressive 2`, `Docker`, `Redis`, `CLI`, `JWT`
+
+
+
+### <a href="carplanner.com">carplanner.com</a> | DAICAR POLSKA Sp z o.o.
+_Contract Senior Software Developer_ (2016.05-2017.01)
+
+Automotive digital retail platform with a mission to ease and transform the way people select, buy and use cars.
+
+- Creating module architecture in ZF3 and Zend Expressive
+- Designing API architecture for contractors
+- RabbitMQ implementation
+- External APIs integration
+- Architecture design of the landing page generation engine
+- Internationalization implementation
+- Code review
+
+`PHP 7`, `Zend Framework 3`, `Zend Expressive`, `RabbitMQ`, `Docker`, `Postgres`, `MySQL`, `Amazon S3`
+
+![__Landing Page Engine__ 2016.12 - 2017.01](./data/img/carplanner-landing-page-engine.jpg)
+__Landing Page Engine__ 2016.12 - 2017.01
+
+![__Vehicle Comparison Engine__](./data/img/carplanner-vehicle-comparison-engine.png)
+__Vehicle Comparison Engine__
+
+![__Vehicle Search Engine__](./data/img/carplanner-vehicle-search-engine.png)
+__Vehicle Search Engine__
+
+
+
+### Lead Manager | DAICAR POLSKA Sp z o.o.
+_Contract Senior Software Developer_ (2016.11-2017.01)
+
+CRM solution that enables to capture leads, manage their purchase pipelines and retain customers.
+
+
+
+
+
+### <a href="audioteka.com">audioteka.com</a> | Audioteka S.A.
+_Senior PHP Programmer_ (2015.09-2016.03)
+
+- Development of the new site deployed on March 9, 2016
+- Subscription & voucher implementation
+- Anti "Dog Pile Effect" solution implementation
+
+`PHP 5.6`, `Symfony 2`
+
+
+
+### <a href="gowork.pl">gowork.pl</a> | GoWork Serwis Pracy
+_Contract Symfony Developer_ | _PHP Programmer_ (2015.03-2015.08)
+
+- Employment & Training Platform development
+- Code refactoring, unit testing
+
+`PHP 5.6`, `Symfony 2`, `MariaDB`, `PhpUnit`, `Solr`, `Docker`
+
+
+
+### <a href="akademiq.pl">akademiq.pl</a> | Altkom Akademia S.A.
+_Contract Zend Framework 2 Developer_ | _Tech Leader_ | _Head Developer_ (2013.05-2015.02)
+
+- Development of an Educational Platform
+- Technical leader, Head Developer in Zend Framework Projects
+
+`PHP 5`, `Zend Framework 2`, `Postgres`, `MySQL`
+
+
+
+### <a href="https://www.t-matic.com.pl/oferta/smart-control#item-1">TiMS - Smart telematics for business</a> | T-matic Systems S.A.
+_Contract Business Application Developer_ (2012.11-2013.04)
+
+- Git & PHPUnit implementation
+- Stash integration and Git Hooks settings
+- Development & maintenance of a telematics application
+
+`PHP 5`, `GIT`, `PhpUnit`
+
+
+
+### Knowledge Base System | IDEA EXPERT S.A.
+_Senior PHP Programmer_ | _Business Application Designer_ | _Head ZF2 Developer_ (2012.10-2012.10)
+
+- Introduction & implementation of new technologies (GIT, Composer, Zend Framework 2)
+
+`PHP 5`, `GIT`, `Zend Framework 2`, `Composer`, `PostgreSQL`
+
+
+
+### CRM System | Noble Bank S.A.
+_Senior PHP Programmer_ (2011.08-2012.10)
+
+- CRM systems development
+- CRM systems integration
+- MemcacheD implementation
+- PHPWord implementation
+
+`PHP 5`, `PostgreSQL`, `Memcached`, `Smarty`, `Bootstrap 3`, `jQuery`
+
+
+
+### Assessment Platform | Home Broker S.A.
+_PHP Programmer_ (2011.08-2012.09)
+
+- Development
+
+`PHP 4`, `PostgreSQL`
+
+
+
+### Promotion Management System | Open Finance S.A.
+_PHP Programmer_ (2011.10-2012.07)
+
+- Promotion system development
+
+`PHP 4`, `PostgreSQL`, `jQuery`
+
+
+
+### Warehouse Management System (WMS) | Idea Bank S.A.
+_PHP Programmer_ (2011.08-2011.09)
+
+- Programming of a system supervising the orders
+
+`PHP 4`, `PostgreSQL`
+
+
+
+### recenzje.com | Dotpay S.A.
+_PHP Programmer_ | _Web Developer_ (2005.11-2008.02)
+
+- Implementation of an Internet Payment System - AllPay
+
+`PHP`, `MySQL`
+
+
+
+### Warehouse Management System (WMS) | District Court for Mokotów, Warsaw
+_Warehouseman in the Administration Dept. / Trade Dept._ (2005.11-2008.02)
+
+- Programming and implementation of a system that enables to efficiently supervise the orders & administration of the resources.
+
+`PHP`, `MySQL`
+
+
+<!--END_SECTION:PROJECTS-->
+
+
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
