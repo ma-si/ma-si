@@ -1,0 +1,580 @@
+[
+    {
+        "name": "S..W....",
+        "description": "",
+        "client": "International Logistics Company",
+        "startDate": "2022.03",
+        "endDate": "",
+        "roles": [
+            "Improvement Evangelist",
+            "Senior Software Engineer"
+        ],
+        "responsibilities": [
+            "Designing & programming microservices"
+        ],
+        "tags": [
+            "PHP 8.2",
+            "Symfony",
+            "IaC"
+        ]
+    },
+    {
+        "name": "H.....io",
+        "description": "Applicant tracking system (ATS).\nApplication that enables the electronic handling of recruitment and hiring needs.\nCRM application for managing recruitment processes & maintaining professional contacts.",
+        "client": "AIST Smart Technologies",
+        "startDate": "",
+        "endDate": "",
+        "roles": [
+            "Project Manager",
+            "Software Architect",
+            "DevOps Engineer"
+        ],
+        "responsibilities": [
+            "Designing & programming microservices"
+        ],
+        "tags": [
+            "PHP 7.4",
+            "Mezzio",
+            "Node",
+            "Angular",
+            "ElasticSearch",
+            "RabbitMQ",
+            "Docker",
+            "IaC",
+            "Ansible",
+            "AWS",
+            "CI/CD"
+        ]
+    },
+    {
+        "name": "P.......W.....M......",
+        "description": "Application for managing investment portfolios.",
+        "client": "AIST Smart Technologies",
+        "startDate": "2021.09",
+        "endDate": "",
+        "roles": [
+            "Project Manager",
+            "Software Architect",
+            "DevOps Engineer"
+        ],
+        "responsibilities": [
+            "Angular client development",
+            "API development",
+            "External APIs integration",
+            "Signals & automation"
+        ],
+        "tags": [
+            "PHP 8",
+            "Node",
+            "Angular 12",
+            "Queue Communication",
+            "Docker",
+            "Web Sockets"
+        ],
+        "gallery": [
+            {
+                "url": "./data/img/budget-dashboard.png",
+                "description": "Budget Module & API microservice"
+            },
+            {
+                "url": "./data/img/goal-dashboard.png",
+                "description": "Goal Module & API microservice"
+            },
+            {
+                "url": "./data/img/investment-dashboard.png",
+                "description": "Investment Module & API microservice"
+            }
+        ]
+    },
+    {
+        "name": "P......M......",
+        "description": "Project management and automation software for managers, freelancers & programmers.",
+        "client": "AIST Smart Technologies",
+        "startDate": "2021.09",
+        "endDate": "",
+        "roles": [
+            "Project Manager",
+            "Software Architect",
+            "DevOps Engineer"
+        ],
+        "responsibilities": [
+            "Angular client development",
+            "API development"
+        ],
+        "tags": [
+            "PHP 8",
+            "Node",
+            "Angular 12",
+            "Queue Communication",
+            "Docker"
+        ]
+    },
+    {
+        "name": "T...M......",
+        "description": "Task management and automation software for Scrum & Kanban boards.",
+        "client": "AIST Smart Technologies",
+        "startDate": "2021.09",
+        "endDate": "",
+        "roles": [
+            "Project Manager",
+            "Software Architect",
+            "DevOps Engineer"
+        ],
+        "responsibilities": [
+            "Angular client development",
+            "API development"
+        ],
+        "tags": [
+            "PHP 8",
+            "Node",
+            "Angular 12",
+            "Queue Communication",
+            "Docker"
+        ]
+    },
+    {
+        "name": "A.........M......",
+        "description": "Onboarding and automation software for accountants & payroll businesses.",
+        "client": "AIST Smart Technologies",
+        "startDate": "2021.09",
+        "endDate": "",
+        "roles": [
+            "Project Manager",
+            "Software Architect",
+            "DevOps Engineer"
+        ],
+        "responsibilities": [
+            "Angular client development",
+            "API development"
+        ],
+        "tags": [
+            "PHP 8",
+            "Node",
+            "Angular 12",
+            "Queue Communication",
+            "Docker"
+        ]
+    },
+    {
+        "name": "LegalMetrics",
+        "description": "Quotes of copyrighted content require the accumulation of the compensation-for-use reserve. Application algorithms calculates reserves for content creators and basic copyright holders based on metrics.",
+        "client": "Publishing Company",
+        "startDate": "2020.07",
+        "endDate": "2021.12",
+        "roles": [
+            "Contract Software Developer"
+        ],
+        "responsibilities": [
+            "Angular client development",
+            "API development"
+        ],
+        "tags": [
+            "PHP 8",
+            "Angular 8",
+            "Symfony",
+            "Redis",
+            "Docker",
+            "CLI",
+            "RabbitMQ",
+            "Elastic Search",
+            "Jenkins",
+            "OpenAPI"
+        ]
+    },
+    {
+        "name": "S..D.........",
+        "description": "",
+        "client": "Insurance Broker",
+        "startDate": "2020.01",
+        "endDate": "2020.03",
+        "roles": [
+            "Contract DevOps Engineer",
+            "Senior Software Developer"
+        ],
+        "responsibilities": [
+            "Setting up CI/CD & Azure",
+            "Designing & developing Node microservices",
+            "Developing React client"
+        ],
+        "tags": [
+            "Node",
+            "React",
+            "TypeScript",
+            "Docker",
+            "IaC",
+            "Azure"
+        ]
+    },
+    {
+        "name": "A...F....",
+        "description": "Fraud detection system",
+        "cover": null,
+        "client": "Automotive Insurance Company",
+        "startDate": "2019.05",
+        "endDate": "2019.12",
+        "roles": [
+            "Contract Senior Developer"
+        ],
+        "responsibilities": [
+            "Setting up CI/CD & AWS",
+            "API client development & CLI consumer"
+        ],
+        "tags": [
+            "Symfony",
+            "CLI",
+            "GraphQL",
+            "API",
+            "Queue",
+            "AWS"
+        ]
+    },
+    {
+        "name": "<a href=\"https://jobstoday.world/en/\">jobstoday.world</a>",
+        "description": "Leader in innovative & cost-effective eRecruitment Platform in Switzerland, Germany, Poland & Austria.",
+        "cover": "./data/img/jobstoday.png",
+        "client": "JobsToday",
+        "startDate": "2017.09",
+        "endDate": "2018.08",
+        "roles": [
+            "Contract DevOps Engineer",
+            "Software Architect",
+            "Team Leader"
+        ],
+        "responsibilities": [
+            "Code review of an existing source",
+            "Security audit & report",
+            "Redesigning architecture",
+            "Code refactoring",
+            "Separate API Architecture",
+            "Performance optimization",
+            "ElasticSearch implementation",
+            "Redis Implementation",
+            "Organizing & automating dev environment and deployment",
+            "Manage deployment of version 2",
+            "PayPal & Stripe payments implementation",
+            "Google Maps API integration for the search location",
+            "Internationalization & translation implementation",
+            "Currency exchange rates API integration",
+            "Geolocation implementation",
+            "Affiliate Marketing implementation for HR clients",
+            "Conducting technical recruitment of Zend Framework 2&3 specialists"
+        ],
+        "tags": [
+            "PHP 7",
+            "Zend Framework 2",
+            "Zend Framework 3",
+            "Docker",
+            "Redis",
+            "ElasticSearch",
+            "Pug",
+            "Gulp"
+        ],
+        "gallery": [
+            {
+                "url": "./data/img/jobstoday.png",
+                "description": "New architecture with full text search integrated"
+            }
+        ]
+    },
+    {
+        "name": "V..M.....",
+        "description": "System that includes client data in order to deliver personalized messages for dynamic videos. Clients are big companies who want to engage in a discussion with their final clients through an innovative media like personalized videos.",
+        "client": "Telecommunications Company",
+        "startDate": "2017.03",
+        "endDate": "2017.10",
+        "roles": [
+            "Contract Software Architect",
+            "Team Leader",
+            "Senior Software Developer"
+        ],
+        "responsibilities": [
+            "Code review",
+            "Software architecture",
+            "Performance optimization",
+            "Security inspection",
+            "JWT Auth (JSON Web Tokens) integration"
+        ],
+        "tags": [
+            "PHP 7",
+            "Zend Expressive 2",
+            "Docker",
+            "Redis",
+            "CLI",
+            "JWT"
+        ]
+    },
+    {
+        "name": "<a href=\"carplanner.com\">carplanner.com</a>",
+        "description": "Automotive digital retail platform with a mission to ease and transform the way people select, buy and use cars.",
+        "client": "DAICAR POLSKA Sp z o.o.",
+        "startDate": "2016.05",
+        "endDate": "2017.01",
+        "roles": [
+            "Contract Senior Software Developer"
+        ],
+        "responsibilities": [
+            "Creating module architecture in ZF3 and Zend Expressive",
+            "Designing API architecture for contractors",
+            "RabbitMQ implementation",
+            "External APIs integration",
+            "Architecture design of the landing page generation engine",
+            "Internationalization implementation",
+            "Code review"
+        ],
+        "tags": [
+            "PHP 7",
+            "Zend Framework 3",
+            "Zend Expressive",
+            "RabbitMQ",
+            "Docker",
+            "Postgres",
+            "MySQL",
+            "Amazon S3"
+        ],
+        "gallery": [
+            {
+                "url": "./data/img/carplanner-landing-page-engine.jpg",
+                "description": "__Landing Page Engine__ 2016.12 - 2017.01"
+            },
+            {
+                "url": "./data/img/carplanner-vehicle-comparison-engine.png",
+                "description": "__Vehicle Comparison Engine__"
+            },
+            {
+                "url": "./data/img/carplanner-vehicle-search-engine.png",
+                "description": "__Vehicle Search Engine__"
+            }
+        ]
+    },
+    {
+        "name": "Lead Manager",
+        "description": "CRM solution that enables to capture leads, manage their purchase pipelines and retain customers.",
+        "client": "DAICAR POLSKA Sp z o.o.",
+        "startDate": "2016.11",
+        "endDate": "2017.01",
+        "roles": [
+            "Contract Senior Software Developer"
+        ],
+        "responsibilities": [
+        ],
+        "tags": [
+        ]
+    },
+    {
+        "name": "<a href=\"audioteka.com\">audioteka.com</a>",
+        "description": "",
+        "client": "Audioteka S.A.",
+        "startDate": "2015.09",
+        "endDate": "2016.03",
+        "roles": [
+            "Senior PHP Programmer"
+        ],
+        "responsibilities": [
+            "Development of the new site deployed on March 9, 2016",
+            "Subscription & voucher implementation",
+            "Anti \"Dog Pile Effect\" solution implementation"
+        ],
+        "tags": [
+            "PHP 5.6",
+            "Symfony 2"
+        ]
+    },
+    {
+        "name": "<a href=\"gowork.pl\">gowork.pl</a>",
+        "description": "",
+        "client": "GoWork Serwis Pracy",
+        "startDate": "2015.03",
+        "endDate": "2015.08",
+        "roles": [
+            "Contract Symfony Developer",
+            "PHP Programmer"
+        ],
+        "responsibilities": [
+            "Employment & Training Platform development",
+            "Code refactoring, unit testing"
+        ],
+        "tags": [
+            "PHP 5.6",
+            "Symfony 2",
+            "MariaDB",
+            "PhpUnit",
+            "Solr",
+            "Docker"
+        ]
+    },
+    {
+        "name": "<a href=\"akademiq.pl\">akademiq.pl</a>",
+        "description": "",
+        "client": "Altkom Akademia S.A.",
+        "startDate": "2013.05",
+        "endDate": "2015.02",
+        "roles": [
+            "Contract Zend Framework 2 Developer",
+            "Tech Leader",
+            "Head Developer"
+        ],
+        "responsibilities": [
+            "Development of an Educational Platform",
+            "Technical leader, Head Developer in Zend Framework Projects"
+        ],
+        "tags": [
+            "PHP 5",
+            "Zend Framework 2",
+            "Postgres",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "<a href=\"https://www.t-matic.com.pl/oferta/smart-control#item-1\">TiMS - Smart telematics for business</a>",
+        "description": "",
+        "client": "T-matic Systems S.A.",
+        "startDate": "2012.11",
+        "endDate": "2013.04",
+        "roles": [
+            "Contract Business Application Developer"
+        ],
+        "responsibilities": [
+            "Git & PHPUnit implementation",
+            "Stash integration and Git Hooks settings",
+            "Development & maintenance of a telematics application"
+        ],
+        "tags": [
+            "PHP 5",
+            "GIT",
+            "PhpUnit"
+        ]
+    },
+    {
+        "name": "Knowledge Base System",
+        "description": "",
+        "client": "IDEA EXPERT S.A.",
+        "startDate": "2012.10",
+        "endDate": "2012.10",
+        "roles": [
+            "Senior PHP Programmer",
+            "Business Application Designer",
+            "Head ZF2 Developer"
+        ],
+        "responsibilities": [
+            "Introduction & implementation of new technologies (GIT, Composer, Zend Framework 2)"
+        ],
+        "tags": [
+            "PHP 5",
+            "GIT",
+            "Zend Framework 2",
+            "Composer",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "name": "CRM System",
+        "description": "",
+        "client": "Noble Bank S.A.",
+        "startDate": "2011.08",
+        "endDate": "2012.10",
+        "roles": [
+            "Senior PHP Programmer"
+        ],
+        "responsibilities": [
+            "CRM systems development",
+            "CRM systems integration",
+            "MemcacheD implementation",
+            "PHPWord implementation"
+        ],
+        "tags": [
+            "PHP 5",
+            "PostgreSQL",
+            "Memcached",
+            "Smarty",
+            "Bootstrap 3",
+            "jQuery"
+        ]
+    },
+    {
+        "name": "Assessment Platform",
+        "description": "",
+        "client": "Home Broker S.A.",
+        "startDate": "2011.08",
+        "endDate": "2012.09",
+        "roles": [
+            "PHP Programmer"
+        ],
+        "responsibilities": [
+            "Development"
+        ],
+        "tags": [
+            "PHP 4",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "name": "Promotion Management System",
+        "description": "",
+        "client": "Open Finance S.A.",
+        "startDate": "2011.10",
+        "endDate": "2012.07",
+        "roles": [
+            "PHP Programmer"
+        ],
+        "responsibilities": [
+            "Promotion system development"
+        ],
+        "tags": [
+            "PHP 4",
+            "PostgreSQL",
+            "jQuery"
+        ]
+    },
+    {
+        "name": "Warehouse Management System (WMS)",
+        "description": "",
+        "client": "Idea Bank S.A.",
+        "startDate": "2011.08",
+        "endDate": "2011.09",
+        "roles": [
+            "PHP Programmer"
+        ],
+        "responsibilities": [
+            "Programming of a system supervising the orders"
+        ],
+        "tags": [
+            "PHP 4",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "name": "recenzje.com",
+        "description": "",
+        "client": "Dotpay S.A.",
+        "startDate": "2005.11",
+        "endDate": "2008.02",
+        "roles": [
+            "PHP Programmer",
+            "Web Developer"
+        ],
+        "responsibilities": [
+            "Implementation of an Internet Payment System - AllPay"
+        ],
+        "tags": [
+            "PHP",
+            "MySQL"
+        ]
+    },
+    {
+        "name": "Warehouse Management System (WMS)",
+        "description": "",
+        "client": "District Court for Mokotów, Warsaw",
+        "startDate": "2005.11",
+        "endDate": "2008.02",
+        "roles": [
+            "Warehouseman in the Administration Dept. / Trade Dept."
+        ],
+        "responsibilities": [
+            "Programming and implementation of a system that enables to efficiently supervise the orders & administration of the resources."
+        ],
+        "tags": [
+            "PHP",
+            "MySQL"
+        ]
+    }
+]
