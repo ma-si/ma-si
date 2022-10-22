@@ -195,53 +195,45 @@ on [smarterer](https://smarterer.com/scores/47412b47e464492a166b5e5b0393a366)· 
 <!--START_SECTION:RECOMMENDATIONS-->
 ## ⭐ RECOMMENDATIONS
 
-> Mateusz is a very contact and organized person.
-> We worked together on various IT projects. During our cooperation, I have always been able to count on Mateusz's commitment and support.
-> I appreciate his willingness to continuously improve and open up to new ideas.
+> Mateusz is a very contact and organized person. We worked together on various IT projects. During our cooperation, I have always been able to count on Mateusz's commitment and support. I appreciate his willingness to continuously improve and open up to new ideas.
 > 
 > -- Agnieszka | HR Specialist Recruiter
 
-
-
 > Mateusz is a great and supportive specialist. He knows how to speak with non-developers about development challenges, so it's easy to understand and make a decision. He is based on his technical experience, but also has good aesthetic taste. Full of initiative and engaged. It was a pleasure to work with Mateusz on building my law firm’s website. I am going to be back for its update.
->
+> 
 > -- Natalia | Legal Counsel HR & Compliance
 
-
-
 > Mateusz is a really responsible and talented developer. I was very pleased to work with him also because of affability and readiness to help as soon as possible. I highly recommend him!
->
+> 
 > -- Anna | Web/Front-End UI Developer/Engineer
 
-
-
 > Mateusz is very experienced and helpful specialists who are good to have on your side.
->
+> 
 > -- Mariusz | Product Owner & Innovation Facilitator, Agile IT Manager
 
-
-
 > Working with Mateusz has been a very pleasant experience. Mateusz has very good PHP knowledge, he's very propositive, and he was able to integrate with the existing team without any problem. He was able to start working on existing projects in almost no time and with just the basic background information. He's been of great help to the whole team and I hope we will be able to work together again in the future.
->
+> 
 > -- Lorenzo | IT Consultant, PHP Developer, GNU/Linux SysAdmin
 
-
-
 > I have worked with Mateusz for more than 6 months on an interesting yet very demanding pan-european project which needed full scale programmers such as Mateusz. Mateusz is very autonomous, hard working, always delivers what was agreed. His multitasking skills covering the most important programming languages helped the project to accelerate far beyond expectations. Mateusz is a team player and very enthusiastic about the job he has committed for. I do not hesitate to give Mateusz my best recommendations.
->
+> 
 > -- Maciej | CEO, Managing Director
 
-
-
 > Mateusz is a responsible and conscientious person. He involves in entrusted tasks - not only performs the duties, but also proposes new solutions that he successfully implements. He is characterized by openness and high awareness in the field of Open Source solutions improving the programmer's workshop.
->
+> 
 > -- Paweł | CTO
 
-
-
 > Very creative and open-minded to a new technologies man. He learns quickly and is not afraid of challenges. Very good first found in teamwork. This is not just a typical programmer, as well as creative designer-engineer with a sense of graphics.
->
+> 
 > -- Marcin | IT Project Manager
+
+
+[You can give me your own recommendation!](https://github.com/ma-si/ma-si/issues/new?assignees=ma-si&labels=recommendation&template=recommendation-template.md&title=Recommendation)
+
+
+
+ They have already gave me recommendation:
+
 
 <!--END_SECTION:RECOMMENDATIONS-->
 
