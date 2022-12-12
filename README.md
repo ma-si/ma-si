@@ -168,7 +168,8 @@ They have already endorsed my skills:
 <!--START_SECTION:RECOMMENDATIONS-->
 ## ⭐ RECOMMENDATIONS
 
-> This is just a test recommendation. You can give me your own recommendation :)
+> This is just a test recommendation.
+Feel free to give me your own recommendation :)
 > 
 > [<img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?v=4&s=28" width="28" height="28">](https://github.com/ma-si) ma-si
 
