@@ -131,7 +131,7 @@ on [smarterer](https://smarterer.com/scores/47412b47e464492a166b5e5b0393a366)· 
 |    |    |
 |:---|---:|
 | **General** |    |
-| [![Software Architecture](https://img.shields.io/badge/software_architecture-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/35)  | [Endorse me!](https://github.com/ma-si/ma-si/issues/35) |
+| [![Software Architecture](https://img.shields.io/badge/software_architecture-_(1)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/35) [<img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?u=1f5066b1667f6d38068859d88dc1a5bf803d40dc&v=4&s=28" width="28" height="28">](https://github.com/ma-si) | [Endorse me!](https://github.com/ma-si/ma-si/issues/35) |
 | [![Design Thinking](https://img.shields.io/badge/design_thinking-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/55)  | [Endorse me!](https://github.com/ma-si/ma-si/issues/55) |
 | [![Business Process Optimisation](https://img.shields.io/badge/business_process_optimisation-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/54)  | [Endorse me!](https://github.com/ma-si/ma-si/issues/54) |
 | [![Extreme Automation](https://img.shields.io/badge/extreme_automation-_(0)-ffffff?style=for-the-badge&logo=)](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Extreme_Automation)  | [Endorse me!](https://github.com/ma-si/ma-si/issues/new?assignees=&labels=endorsement&template=endorsement-template.md&title=Endorse%3A+Extreme_Automation) |
