@@ -165,10 +165,10 @@ Click badges to endorse my skills!
 
 <!--START_SECTION:RECOMMENDATIONS-->
 > This is just an example recommendation given on the GitHub.
->
-> Feel free to give me your own recommendation that will be visible in the [⭐ RECOMMENDATIONS](https://github.com/ma-si#-recommendations) section :)
->
-> [<img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?v=4&s=28" width="28" height="28">](https://github.com/ma-si) ma-si
+Feel free to give me your own recommendation that will be visible in the [⭐ RECOMMENDATIONS](https://github.com/ma-si#-recommendations) section :)
+> 
+> <a href="https://github.com/ma-si"><img alt="ma-si" src="https://avatars.githubusercontent.com/u/1869327?v=4&s=28" width="28" height="28"></a> ma-si
+
 <!--END_SECTION:RECOMMENDATIONS-->
 
 > Mateusz is a very contact and organized person. We worked together on various IT projects. During our cooperation, I have always been able to count on Mateusz's commitment and support. I appreciate his willingness to continuously improve and open up to new ideas.
